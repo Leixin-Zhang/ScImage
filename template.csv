@@ -1,0 +1,221 @@
+Template_ID,Reasoning Type Annotation,Template
+a_1,attribute undersanding: {color: black},"A/An {color} {object}.
+Restriction: object is 2D or 3D"
+a_2,attribute understanding: {color-1: red} {color-2: green},"A/An {color-1} {object-1} and a/an {color-2} {object-2}.
+Restriction: object is 2D or 3D"
+a_3,attribute understanding: {color: blue} border,"A/An {object} with a/an {color} border.
+Restriction: object is 2D or 3D"
+a_4,"attribute understanding: {color: yellow}, different color","A/An {color} {object} with the border of a different color.
+Restriction: object is 2D or 3D"
+a_5,attribute understanding: {color: orange} ,A circle with its radius marked in {color}.
+a_6,"attribute understanding: large, small",A large {object} and a small one.
+a_7,attribute understanding: different size,"Some {object-plural} of different sizes.
+Restriction: object is 2D or 3D"
+a_8,attribute understanding: thick\thin,The diagonal of the square is {color} and very thick.
+a_9,attribute understanding: rounded corners,"A/An {object} with rounded corners.
+Restriction: the object is a polygon"
+a_10,attribute understanding: equal length,"A/An {object} with sides of equal length.
+Restriction: object in ['quadrilateral', 'pentagon', 'hexagon', 'octagon']"
+a_11,"attribute understanding: different sizes, largest one, {color: red}","Some {object-plural} of different sizes and mark the largest one in {color}.
+Restriction: object is 2D or 3D"
+a_12,attribute understanding: longer than,A/an {object} and its shadow which is longer than it.
+n_1,"numerical understanding: {number: 2}, {number: 5} ","There are {number-1} {object-1-plural} and {number-2} {object-2-plural}.
+"
+n_2,"numerical understanding: {number: 2}, {number: 5} more objects","The number of triangles is {number}, and there are {number} more {object-plural} than triangles.
+Restriction: object is 2D "
+n_3,numerical understanding: {number: 3} sides,"A polygon with {number} sides.
+Restriction: number = 3+N"
+n_4,numerical understanding: [matrix dimension] {number: three} by {number: four} ,A {number}-by-{number} matrix.
+n_5,"numerical understanding: integer M > N, M > 1 & N>1","M {object-1-plural} and N {object-2-plural}, where M is greater than N, and M and N are both larger than 1.
+"
+n_6,"numerical understanding: integer M = N, M > 2,  N>2","M {object-1-plural} and N {object-2-plural}, where M is the same as N, and M and N are both larger than 2."
+n_7,"numerical understanding: function, inverse function",y = {number}^{x} and its inverse function.
+n_8,"numerical understanding: {number : 3} *N, N>1","There are N {object-1-plural} and {number}*N {object-2-plural}, where N > 1."
+n_9,"numerical understanding: {number: 4} sides, [fraction] 1/{number: 2} ",A rectangle with a length of {number} cm and a width of 1/{number} of the length.
+n_10,"numerical understanding: integer N, N-1, N>2","A/An {object} is divided into N parts using N-1 lines, where N > 2.
+Restriction: object is 2D or 3D"
+n_11,numerical understanding: {number: 30} %,"In the pie chart, the proportion of children is {number}%, and the rest are adults.
+Restriction: number  = 10*N"
+n_12,numerical understanding: M+N+K={number: 30},"A bar chart representing weather distribution, with M sunny days, N rainy days, and K cloudy days, where M + N + K equals {number}.
+Restriction: number = N+10"
+n_13,numerical understanding: {number: 7} nodes,"A binary tree with a total of {number} nodes.
+Restriction: number = 3 + N"
+n_14,numerical understanding: {number: 4} hidden layers,There is an artificial neural network with {number} hidden layers.
+n_15,"numerical reasoning: numbers in pie/bar chart
+","A {bar chart} shows the number of graduates in different subjects within the community. {number} studied humanities, {number} studied science, and {number} studied engineering. The values are marked at the top of each bar./The percentages are marked inside each pie slice."
+n_16,numerical reasoning: numbers in bar chart/ line chart/ dot plot,"The number of students at the university was {number} in 2020, {number} in 2021, {number} in 2022, and {number} in 2023. The student numbers over these four years are represented in a {line chart/ bar chart/ dot plot}. The values are also marked in the chart."
+s_1,spatial reasoning: {preposition: in the middle of},"A/An {object} is {preposition} the canvas.
+Restriction: object is 2D or 3D"
+s_2,spatial reasoning: {preposition: to the left of},A/An {object} is to the left of a/an {object}.
+s_3,spatial reasoning: {spatial_adj: upper left},"There is a/an {2D-object} in the {spatial_adj} corner of a square.
+Restriction: spatial_adj in ['upper left', 'upper right', 'lower left', 'lower right']"
+s_4,spatial reasoning: each corner of a polygon,"A/An {object} in each corner of a polygon.
+Restriction: object is 2D"
+s_5,"spatial reasoning: inside, outside","A/An {object} is inside the {object}, and a/an {object} is outside."
+s_6,spatial reasoning: between A and B,"A/An {object-1} between a/an {object-2} and a/an {object-3}.
+Restriction: object is 2D or 3D"
+s_7,spatial reasoning: {spatial_adj: leftmost},"A binary tree with the root at the {spatial_adj} position.
+Restriction: spatial_adj in ['leftmost', 'rightmost', 'top', 'bottom']"
+s_8,spatial reasoning: {spatial_adv: upwards},"A parabola opening {spatial_adv}. 
+Restriction: spatial_adv in ['upwards', 'downwards', 'towards the left', 'towards the right']"
+s_9,spatial reasoning: intersect,A/An {2D-object-1} and a/an {2D-object-2} intersect.
+s_10,spatial reasoning: around,"There are many {object-plural} around a/an {object}.
+Restriction: object is 2D or 3D"
+s_11,"spatial reasoning: embedded, without intersection","Many {object-plural} are embedded within each other without intersection.
+Restriction: object is 2D or 3D"
+s_12,spatial reasoning: parabola trace,"The {object} moves along a parabola.
+Restriction: object in small_object"
+s_13,spatial understanding: half-filled water,"A/an {object} is half filled with water.
+Restriction: object is a container."
+s_14,"spatial reasoning: on, top view, left view, left side of the image, right side of the image, beside 
+","There is a {object} on the table. The {object} and the table are on the left side of the image. The top view and the left view of the {object} are on the right side of the image, and the English texts of 'top view' and 'left view' are annotated beside their shapes."
+ns_1,"numerical understanding: {number: 5}
+spatial reasoning: {spatial_adj-1:left}","{number} {object-plural} on the {spatial_adj} side of the canvas
+Restriction: object is 2D or 3D"
+ns_2,"numerical understanding: {number: three}
+spatial reasoning: upper left corner of","{number} {object-plural} in the {upper} left corner of the {rectangle}.
+Restriction: object is 2D or 3D"
+ns_3,"numerical understanding: {number: 4}
+spatial reasoning: {preposition:inside}",There are {number} line segments {preposition} a circle.
+ns_4,"numerical understanding: {number: 4}
+spatial reasoning: in the middle of","There is a/an {object-1} in the middle of {number} {object-2-plural}.
+Restriction: number = 2* N"
+ns_5,"numeriacl reasnoning: {number: four}, {number: four}
+spatial reasoning: {preposition: to the right of}",{number} {object-1-plural} are {preposition} {number} {object-2-plural}.
+ns_6,"numerical understanding: {number: 5}
+spatial reasoning: different directions",{number} arrows pointing to different directions.
+ns_7,"numerical understanding: {number: 5}
+spatial reasoning: in a row",{number} {object-plural} are arranged in a row.
+ns_8,"numerical understanding: two cluster, more number of 
+spatial reasoning: {spatial_adj-1:leftmost}, {spatial_adj-2: upper-right}",There are two clusters. The {spatial_adj-1} cluster has more dots than the {spatial_adj-2} cluster.
+ns_9,"numerial reasoning: {number: 30} degree
+spatial reasoning: rotate ","A rectangle is rotated {number} degrees clockwise.
+Restriction: number = 30*N"
+ns_10,"numerical understanding: {number: 40} degree
+spatial reasoning: angel of a line and a space","The angle between a line and a {vertical} space is {number} degrees.
+Restriction: number = 10*N"
+ns_11,"numerical understanding: {number: 4}
+spatial reasoning: tangent line",There are {number} tangent lines to a circle.
+ns_12,"numerical understanding: {number: 5}
+spatial reasoning: arrows point to children/parent nodes","A binary tree with {number} nodes. The nodes are connected with arrows that point to the children/parent nodes.
+Restriction: number = 3 + N"
+ns_13,"numerical understanding: {number-1: 5}, {number-2: 3}
+spatial reasoning: {spatial_adj-1:left}, {spatial_adj-2:right}",There are {number-1} {object-1-plural} on the {spatial_adj-1} side of the canvas and {number-2} {object-2-plural} on the {spatial_adj-2} side.
+ns_14,"numerical understanding: {number:4} boxes
+spatial reasoning: 30 degree slope","There are {number-1} boxes on a {number-2} degree slope.
+Restriction: number = 10*N "
+ns_15,"numerical understanding: {number: 4} nodes, {number:6} edeges
+spatial reasoning: direction on edges","A directed graph with {number-1} nodes and {number-2} edges. Arrows indicate the direction on edges.
+Restriction: number=1+N"
+ns_16,"numerical reasoning: {number:5}
+spatial reasoning: numbers align in the venn diagram ","Set A contains the numbers 1, 2, 5, and 6. Set B contains 1, 3, and {number}. Use a Venn diagram to represent set A and set B"
+sa_1,"spatial reasoning: {preposition: above}
+attribute understanding: {color-1: green}, {color-2: red}","A/An {color-1} {object-1} is {preposition} a/an {color-2} {object-2}.
+Restriction: object is 2D or 3D"
+sa_2,"spatial reasoning: inside, outside
+attribute understanding: big, small","A big {object-1} is inside a circle, and a small {object-2} is outside of the circle."
+sa_3,"spatial reasoning: to the right of, leftmost
+attribute understanding: {color-1: blue}, {color-2: orange}, tallest","In a bar chart, a/an {color-1} bar is to the right of a/an {color-2} bar, and the leftmost bar is the {tallest/shortest} in the chart."
+sa_4,"spatial reasoning: {preposition: to the left of}
+attribute understanding: English text of the object",The English text (the name of the object) is {preposition} the {object}.
+sa_5,"spatial reasoning: on the left side, on the lower right side
+attribute understanding: {color-1: red}, {color-2: blue}","A/An {color-1} {object-1} is on the left side of the canvas, and a/an {color-2} {object-2} is on the lower right side.
+Restriction: object-1 is 2D or 3D, object-2 is 2D or 3D"
+sa_6,"spatial reasoning: on the top of, on the bottom
+attribute understanding: large, small","A/An large {object-1} is on the top of the canvas, and a/an small {object-2} is on the bottom.
+Restriction: object-1 is 2D or 3D, object-2 is 2D or 3D"
+sa_7,"spatial reasoning: different directions, upward
+attribute understanding: {color: red}",There are some arrows pointing to different directions and the upward arrow is marked in {color}.
+sa_8,"spatial reasoning: intersection
+attribute understanding: {color: red}",The intersection of the {2D-object-1} and the {2D-object-2} is filled with {color}.
+sa_9,"spatial reasoning: parallel, form a certain angel
+attribute understanding: {color-1: pink}, {color-2: light green}","There are two parallel lines: a/an {color-1} line and a/an {color-2} line. Two lines are parallel and form a {number}-degree angle with a third line, which is {horizontal}.
+Restriction: number = 10 * N"
+sa_10,"spatial reasoning: inside, upward-curved
+attribute understanding: upward-curved", A/An {3D-object} is inside an upward-curved surface.
+na_1,"numerical understanding: {number: 3} 
+attribute understanding: different color",{number} {object-plural} filled with different colors.
+na_2,"numerical understanding: {number: two}
+attribute understanding: different colors",A circle is filled with {number} different colors.
+na_3,"numerical understanding: {number: 3} 
+attribute understanding: equidistant from",There are three {object-plural} equidistant from each other.
+na_4,"numerical understanding: {number: two}
+attribute understanding: big, small",There is a big {object-1} and {number} small {object-2-plural}.
+na_5,"numerical understanding: {number: 5} 
+attribute understanding: different size",{number} {object-plural} of different sizes.
+na_6,"numerical understanding: {number: 3} 
+attribute understanding: same size, different shape",{number} triangles of the same size but different shapes.
+na_7,"numerical understanding: two
+attribute understanding: {color: blue}",Two {color} spaces divide a/an {3D-object} into four parts.
+na_8,"numerical understanding: {number: 3} sides
+attribute understanding: different color","There is a polygon with {number} sides. each side has a different color.
+Restriction: number =1+N"
+na_9,"numerical understanding: {number:3}, {number:5}
+attribute understanding: transparent, {color-1:red}, {color-2:black}","A transparent box contains {number} {color-1} balls and {number} {color-2} balls.
+"
+na_10,"numerical understanding: {number: 3} 
+attribute understanding: square border",There is a square border around {number} circles.
+na_11,"numerical understanding: N by 2N, odd numbers, even numbers
+attribute understanding: {color-1: red}, {color-2: green}","There is a N by 2N matrix, where N is an integer. Mark all {odd numbers} in the matrix in {color-1} and {even numbers} in {color-2}."
+na_12,"numerical understanding: first two
+attribute understanding: (distance) closer, last (object)","There is a/an {object-1}, a/an {object-2}, and a/an {object-3}, with the first two objects closer to each other than to the last object."
+na_13,"numerical understanding: {number: 5} 
+attribute understanding: monochrome, {color: blue}, colors gradually change","There are {number} monochrome {objects} in a row and they are filled  with {color} colors, with colors gradually changing from lighter to darker."
+na_14,"numerical understanding: {number: 5}, same range, different percentage
+attribute understanding: annotation into pie slice","There is a pie chart representing the population proportion of {number} age groups, from 0 to 100 years old. Each group has the same or a similar range, but their population percentages differ. The age group and their proportion are marked in each pie slice."
+na_15,"numerical unerstanding: {number: three} {number: five}
+attribute understanding: first",A table with {number-1} rows and {number-2} columns. The row index is marked in the first column.
+na_16,"numerical understanding: {number: two}
+attribute understanding: {color:blue}, value annotation",There is a line chart with {number} {color} lines and the value of each turning point is annotated beside it.
+na_17,"numerical reasoning: {number: 5} steps
+attribute reasoning: text in flowchart, first, second, remaining","A flowchart with {number} steps. The first step is to collect data, and the second step is to analyze the data. The remaining steps are left blank.
+Restriction: number = 1+N "
+na_18,"numerical understanding: {number:3}00 ml
+attribute understanding: blue solution",A 1000 ml measuring cup is filled with {number}00 ml of the {color} solution.
+na_19,"numerical understanding: {number:3}
+attribute undersanding:  small",A circuit diagram contains a battery and {number} small light bulbs.
+na_20,"numerical understanding: {number unit: 500 meters}
+attribute understanding:  distance annotation",The distance between the {object-1} and the {object-2} is {number unit}. The distance is marked with a line segment and the distance number.
+nsa_1,"numerical understanding: {number: two} 
+spatial reasoning: {preposition: inside}
+attribute understanding: {color: red}",{number} {color} {3D-obejct-1-plural} are placed {preposition} a {3D-object-2}.
+nsa_2,"numerical understanding: {number: 3} 
+spatial reasoning: aligned in a row
+attribute understanding: {color-1: red}, {color-2: blue}","{number} {object-plural} are aligned in a row; the first one is {color-1}, and the others are {color-2}."
+nsa_3,"numerical understanding: two
+spatial reasoning: parallel, inside, points on the circle
+attribute understanding: {color: black}","{number} parallel line segments are inside a circle, with all of their endpoints on the circle. Mark the endpoints with {color} dots."
+nsa_4,"numerical understanding: two lines, three clusters
+spatial reasoning: {spatial_adj: leftmost}, middle, last
+attribute understanding: {color-1: red}, {color-2: blue}, {color-3: green}","Two lines divide the dots into three clusters. Mark the {spatial_adj} cluster in {color-1}, the middle cluster in {color-2}, and the last one in {color-3}."
+nsa_5,"numerical understanding: {number: two}
+spatial reasoning: symmetrical about the origin
+attribute understanding: {color-1: red}, {color-2:green}","{number} {2D-object-plural} are placed in a coordinate system and are symmetrical about the origin. Object(s) on the one side is/are in {color-1}. Object(s) on the other side is/are in {color-2}.
+Restriction: number = 2* N"
+nsa_6,"numerical understanding: {number-1: five}, {number-2:three}
+spatial reasoning: opposite sides
+attribute understanding: {color-1: black}, {color-2: grey}",Some {object-plural} are on opposite sides of a plane. There are {number-1} {color-1} ones on the left and {number-2} {color-2} ones on the right.
+nsa_7,"numerical understanding: {number-1: two}, {number-2:three}
+spatial reasoning: increasing, decreasing, with intersection, without intersection
+attribute understanding: {color-1: red}, {color-2: green}","A line graph with {number-1} {color-1} lines increasing gradually and intersecting once, and {number-2} {color-2} lines decreasing gradually without intersecting the other lines."
+nsa_8,"numerical understanding: {number: 5} bars
+spatial reasoning: leftmost
+attribute understanding: {color: blue}",A bar chart with {number} bars and mark the leftmost bar in {color}.
+nsa_9,"numerical understanding: {number: 4} 
+spatial reasoning: not parallel, form the same angle
+attribute understanding: {color-1: red} {color-2:blue}",{number} {color-1} straight lines are not parallel to each other. They pass through a {color-2} plane and form the same angle with the plane.
+nsa_10,"numerical understanding: {number: four} 
+spatial reasoning: symmetrical about X-aixs
+attribute understanding: same color for each pair","{number} {straight} lines are located in a coordinate system and are symmetrical about the X-axis in pairs. Each pairs share the same color.
+Restriction: number = 2*N"
+nsa_11,"numerical understanding: 1.{number:5},0.{number:8}
+attribute understanding: {color:red}, dotted
+spatial reasoning: rebound","A small ball falls from a table 1.{number} meters high and bounces to a height of 0.{number} meters. The trajectory of the ball's fall and rebound is represented by a/an {color} dotted line.
+"
+nsa_12,"numerical understanding: {number:5}, {number:3},{number:2}
+attribute understanding: transparent, {color-1:black}, {color-2:green}
+spatial reasoning: left, right","The box on the left contains {number} white balls, and the box on the right contains {number} {color-1} balls and {number} {color-2} balls."
+nsa_13,"numerical reasoning: 60-65 range, {number:10} {number:10}0
+spatial reasoning: bell-shape
+attribute reasoning: largest numer of people","The scores of a class are in a bell shape, with the largest number of people in the 60-65 range. The highest and lowest scores are {number} and {number}0 respectively. A histogram represents the scores of this class.
+"
