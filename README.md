@@ -2,7 +2,7 @@
 
 <p align="left">
   <img src="Decorate_icons/star_icon.png" alt="star_logo_mini" width= "20" height="20"> 
-  <span style="font-size: 24px;">How To Use StableDiffusion3 To Generate Images</span>
+  <span style="font-size: 36px;">How To Use StableDiffusion3 To Generate Images</span>
 </p>
 
 ### 1. Prerequisites
@@ -14,7 +14,7 @@
 <br>
 <p align="left">
   <img src="Decorate_icons/star_icon.png" alt="star_logo_mini" width= "20" height="20"> 
-  <span style="font-size: 24px;">How To Use QWen2.5 To Generate Images</span>
+  <span style="font-size: 36px;">How To Use QWen2.5 To Generate Images</span>
 </p>
 
 ### 1. Prerequisites
