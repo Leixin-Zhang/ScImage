@@ -68,11 +68,26 @@ Image Output:
 | Language           |  Correctness  | -  | -  | -  | Relevance | - | - | - | Scientific Style |   |  |  |
 
 
-| Language     | Correctness         | Relevance           | Scientific Style     |
-|--------------|---------------------|----------------------|----------------------|
-|              | EN | DE | ZH | FA  | EN | DE | ZH | FA  | EN | DE | ZH | FA  |
-| Llama_tikz   |1.88|1.48|1.50|1.23 |2.18|1.78|2.10|1.68 |2.78|2.23|2.80|2.90 |
-
+<table>
+  <tr>
+    <th rowspan="2">Language</th>
+    <th colspan="4">Correctness</th>
+    <th colspan="4">Relevance</th>
+    <th colspan="4">Scientific Style</th>
+  </tr>
+  <tr>
+    <th>EN</th><th>DE</th><th>ZH</th><th>FA</th>
+    <th>EN</th><th>DE</th><th>ZH</th><th>FA</th>
+    <th>EN</th><th>DE</th><th>ZH</th><th>FA</th>
+  </tr>
+  <tr>
+    <td>Llama_tikz</td>
+    <td>1.88</td><td>1.48</td><td>1.50</td><td>1.23</td>
+    <td>2.18</td><td>1.78</td><td>2.10</td><td>1.68</td>
+    <td>2.78</td><td>2.23</td><td>2.80</td><td>2.90</td>
+  </tr>
+  <!-- Add more rows as needed -->
+</table>
 
 
 
