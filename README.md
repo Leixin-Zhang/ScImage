@@ -53,5 +53,13 @@ code generation: https://drive.google.com/drive/folders/1vYaRGRd6XvcT2pjZYQ2w76-
 image generation:https://drive.google.com/drive/folders/1Ke2oL2nmXwpSSwZfh_yifyAof_XYlIGo?usp=sharing
 
 
-
+## Citation 
+```
+@article{zhang2024scimage,
+  title={ScImage: How Good Are Multimodal Large Language Models at Scientific Text-to-Image Generation?},
+  author={Zhang, Leixin and Eger, Steffen and Cheng, Yinjie and Zhai, Weihe and Belouadi, Jonas and Leiter, Christoph and Ponzetto, Simone Paolo and Moafian, Fahimeh and Zhao, Zhixue},
+  journal={arXiv preprint arXiv:2412.02368},
+  year={2024}
+}
+```
 
