@@ -1,5 +1,9 @@
 # ScImage Benchmark: text to scientific image generation
 
+link all images and human evaluation scores for English-prompt generation: https://docs.google.com/spreadsheets/d/1e-5_BbLZQ6h4RrJXwYYoh-70_XJuiaK8/edit?usp=sharing&ouid=102282799414163318354&rtpof=true&sd=true
+
+
+
 <p align="left">
   <img src="Decorate_icons/star_icon.png" alt="star_logo_mini" width= "20" height="20"> 
   <span style="font-size: 36px;">How To Use StableDiffusion3 To Generate Images</span>
