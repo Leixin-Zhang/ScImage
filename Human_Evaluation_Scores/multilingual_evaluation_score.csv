@@ -1,0 +1,541 @@
+ID,EN_ID,Language,Model,EN_Prompt,Correctness_final,Relevance_final,Scientific_final
+sa_2_1_DE,sa_2_1,DE,gpt_4o_python,"A big circle is inside a circle, and a small circle is outside of the circle.",5,5,5
+sa_2_1_DE,sa_2_1,DE,llama_tikz,"A big circle is inside a circle, and a small circle is outside of the circle.",3,4.5,5
+sa_2_1_ZH,sa_2_1,ZH,llama_tikz,"A big circle is inside a circle, and a small circle is outside of the circle.",3,4.5,5
+sa_2_1_DE,sa_2_1,DE,gpt_4o_tikz,"A big circle is inside a circle, and a small circle is outside of the circle.",5,5,5
+sa_2_1_EN,sa_2_1,EN,gpt_o1_tikz,"A big circle is inside a circle, and a small circle is outside of the circle.",5,5,5
+sa_2_1_FA,sa_2_1,FA,llama_python,"A big circle is inside a circle, and a small circle is outside of the circle.",3,3,5
+sa_2_1_ZH,sa_2_1,ZH,gpt_o1_python,"A big circle is inside a circle, and a small circle is outside of the circle.",5,4,5
+sa_2_1_ZH,sa_2_1,ZH,gpt_o1_tikz,"A big circle is inside a circle, and a small circle is outside of the circle.",5,5,5
+sa_2_1_ZH,sa_2_1,ZH,gpt_4o_python,"A big circle is inside a circle, and a small circle is outside of the circle.",4,4,5
+sa_2_1_FA,sa_2_1,FA,dalle,"A big circle is inside a circle, and a small circle is outside of the circle.",4,3,3
+sa_2_1_ZH,sa_2_1,ZH,llama_python,"A big circle is inside a circle, and a small circle is outside of the circle.",2.5,3,5
+sa_2_1_DE,sa_2_1,DE,llama_python,"A big circle is inside a circle, and a small circle is outside of the circle.",2.5,4,5
+sa_2_1_ZH,sa_2_1,ZH,dalle,"A big circle is inside a circle, and a small circle is outside of the circle.",2.5,2.5,2.5
+sa_2_1_FA,sa_2_1,FA,gpt_4o_python,"A big circle is inside a circle, and a small circle is outside of the circle.",5,4,5
+sa_2_1_DE,sa_2_1,DE,dalle,"A big circle is inside a circle, and a small circle is outside of the circle.",3.5,2.5,2.5
+sa_2_1_ZH,sa_2_1,ZH,gpt_4o_tikz,"A big circle is inside a circle, and a small circle is outside of the circle.",4.5,5,5
+sa_2_1_FA,sa_2_1,FA,llama_tikz,"A big circle is inside a circle, and a small circle is outside of the circle.",0,0,0
+sa_2_1_EN,sa_2_1,EN,gpt_o1_python,"A big circle is inside a circle, and a small circle is outside of the circle.",5,4.5,5
+sa_2_1_FA,sa_2_1,FA,gpt_4o_tikz,"A big circle is inside a circle, and a small circle is outside of the circle.",4.5,5,5
+sa_2_1_DE,sa_2_1,DE,gpt_o1_python,"A big circle is inside a circle, and a small circle is outside of the circle.",1,1,5
+sa_2_1_DE,sa_2_1,DE,gpt_o1_tikz,"A big circle is inside a circle, and a small circle is outside of the circle.",5,5,5
+sa_2_1_FA,sa_2_1,FA,gpt_o1_tikz,"A big circle is inside a circle, and a small circle is outside of the circle.",5,5,5
+sa_2_1_FA,sa_2_1,FA,gpt_o1_python,"A big circle is inside a circle, and a small circle is outside of the circle.",5,4,5
+nsa_12_2_DE,nsa_12_2,DE,llama_tikz,"The box on the left contains 5 white balls, and the box on the right contains 4 green balls and 5 grey balls.",2.5,2.5,4
+nsa_12_2_FA,nsa_12_2,FA,llama_tikz,"The box on the left contains 5 white balls, and the box on the right contains 4 green balls and 5 grey balls.",0,0,0
+nsa_12_2_ZH,nsa_12_2,ZH,llama_python,"The box on the left contains 5 white balls, and the box on the right contains 4 green balls and 5 grey balls.",1,1.5,4
+nsa_12_2_EN,nsa_12_2,EN,gpt_o1_python,"The box on the left contains 5 white balls, and the box on the right contains 4 green balls and 5 grey balls.",5,5,5
+nsa_12_2_EN,nsa_12_2,EN,gpt_o1_tikz,"The box on the left contains 5 white balls, and the box on the right contains 4 green balls and 5 grey balls.",5,5,5
+nsa_12_2_ZH,nsa_12_2,ZH,llama_tikz,"The box on the left contains 5 white balls, and the box on the right contains 4 green balls and 5 grey balls.",3,4.5,5
+nsa_12_2_DE,nsa_12_2,DE,gpt_4o_tikz,"The box on the left contains 5 white balls, and the box on the right contains 4 green balls and 5 grey balls.",4.5,3.5,5
+nsa_12_2_ZH,nsa_12_2,ZH,gpt_4o_python,"The box on the left contains 5 white balls, and the box on the right contains 4 green balls and 5 grey balls.",3.5,4.5,4.5
+nsa_12_2_FA,nsa_12_2,FA,gpt_4o_python,"The box on the left contains 5 white balls, and the box on the right contains 4 green balls and 5 grey balls.",0,0,0
+nsa_12_2_ZH,nsa_12_2,ZH,gpt_o1_python,"The box on the left contains 5 white balls, and the box on the right contains 4 green balls and 5 grey balls.",5,5,5
+nsa_12_2_ZH,nsa_12_2,ZH,gpt_4o_tikz,"The box on the left contains 5 white balls, and the box on the right contains 4 green balls and 5 grey balls.",4,5,5
+nsa_12_2_FA,nsa_12_2,FA,gpt_o1_python,"The box on the left contains 5 white balls, and the box on the right contains 4 green balls and 5 grey balls.",4,5,5
+nsa_12_2_ZH,nsa_12_2,ZH,gpt_o1_tikz,"The box on the left contains 5 white balls, and the box on the right contains 4 green balls and 5 grey balls.",5,5,5
+nsa_12_2_DE,nsa_12_2,DE,gpt_o1_tikz,"The box on the left contains 5 white balls, and the box on the right contains 4 green balls and 5 grey balls.",5,5,5
+nsa_12_2_FA,nsa_12_2,FA,dalle,"The box on the left contains 5 white balls, and the box on the right contains 4 green balls and 5 grey balls.",2,2.5,2
+nsa_12_2_FA,nsa_12_2,FA,gpt_o1_tikz,"The box on the left contains 5 white balls, and the box on the right contains 4 green balls and 5 grey balls.",5,5,5
+nsa_12_2_DE,nsa_12_2,DE,dalle,"The box on the left contains 5 white balls, and the box on the right contains 4 green balls and 5 grey balls.",2.5,2.5,1
+nsa_12_2_DE,nsa_12_2,DE,gpt_4o_python,"The box on the left contains 5 white balls, and the box on the right contains 4 green balls and 5 grey balls.",5,5,5
+nsa_12_2_FA,nsa_12_2,FA,llama_python,"The box on the left contains 5 white balls, and the box on the right contains 4 green balls and 5 grey balls.",0,0,0
+nsa_12_2_FA,nsa_12_2,FA,gpt_4o_tikz,"The box on the left contains 5 white balls, and the box on the right contains 4 green balls and 5 grey balls.",4,5,5
+nsa_12_2_ZH,nsa_12_2,ZH,dalle,"The box on the left contains 5 white balls, and the box on the right contains 4 green balls and 5 grey balls.",3,3,2
+nsa_12_2_DE,nsa_12_2,DE,llama_python,"The box on the left contains 5 white balls, and the box on the right contains 4 green balls and 5 grey balls.",0,0,0
+nsa_12_2_DE,nsa_12_2,DE,gpt_o1_python,"The box on the left contains 5 white balls, and the box on the right contains 4 green balls and 5 grey balls.",5,5,5
+na_14_1_ZH,na_14_1,ZH,gpt_4o_tikz,"There is a pie chart representing the population proportion of 5 age groups, from 0 to 100 years old. Each group has the same or a similar range, but their population percentages differ. The age group and their proportion are marked in each pie slice.",4.5,5,5
+na_14_1_FA,na_14_1,FA,llama_python,"There is a pie chart representing the population proportion of 5 age groups, from 0 to 100 years old. Each group has the same or a similar range, but their population percentages differ. The age group and their proportion are marked in each pie slice.",4,4,5
+na_14_1_DE,na_14_1,DE,gpt_4o_python,"There is a pie chart representing the population proportion of 5 age groups, from 0 to 100 years old. Each group has the same or a similar range, but their population percentages differ. The age group and their proportion are marked in each pie slice.",3,1.5,4
+na_14_1_DE,na_14_1,DE,gpt_4o_tikz,"There is a pie chart representing the population proportion of 5 age groups, from 0 to 100 years old. Each group has the same or a similar range, but their population percentages differ. The age group and their proportion are marked in each pie slice.",4.5,5,5
+na_14_1_DE,na_14_1,DE,dalle,"There is a pie chart representing the population proportion of 5 age groups, from 0 to 100 years old. Each group has the same or a similar range, but their population percentages differ. The age group and their proportion are marked in each pie slice.",3,2.5,3.5
+na_14_1_FA,na_14_1,FA,gpt_4o_python,"There is a pie chart representing the population proportion of 5 age groups, from 0 to 100 years old. Each group has the same or a similar range, but their population percentages differ. The age group and their proportion are marked in each pie slice.",2.5,1.5,4
+na_14_1_DE,na_14_1,DE,gpt_o1_tikz,"There is a pie chart representing the population proportion of 5 age groups, from 0 to 100 years old. Each group has the same or a similar range, but their population percentages differ. The age group and their proportion are marked in each pie slice.",0,0,0
+na_14_1_FA,na_14_1,FA,gpt_o1_tikz,"There is a pie chart representing the population proportion of 5 age groups, from 0 to 100 years old. Each group has the same or a similar range, but their population percentages differ. The age group and their proportion are marked in each pie slice.",4,4.5,5
+na_14_1_FA,na_14_1,FA,gpt_4o_tikz,"There is a pie chart representing the population proportion of 5 age groups, from 0 to 100 years old. Each group has the same or a similar range, but their population percentages differ. The age group and their proportion are marked in each pie slice.",4,5,5
+na_14_1_DE,na_14_1,DE,llama_python,"There is a pie chart representing the population proportion of 5 age groups, from 0 to 100 years old. Each group has the same or a similar range, but their population percentages differ. The age group and their proportion are marked in each pie slice.",5,5,5
+na_14_1_EN,na_14_1,EN,gpt_o1_python,"There is a pie chart representing the population proportion of 5 age groups, from 0 to 100 years old. Each group has the same or a similar range, but their population percentages differ. The age group and their proportion are marked in each pie slice.",5,5,5
+na_14_1_FA,na_14_1,FA,llama_tikz,"There is a pie chart representing the population proportion of 5 age groups, from 0 to 100 years old. Each group has the same or a similar range, but their population percentages differ. The age group and their proportion are marked in each pie slice.",0,0,0
+na_14_1_ZH,na_14_1,ZH,gpt_o1_python,"There is a pie chart representing the population proportion of 5 age groups, from 0 to 100 years old. Each group has the same or a similar range, but their population percentages differ. The age group and their proportion are marked in each pie slice.",4.5,5,5
+na_14_1_FA,na_14_1,FA,dalle,"There is a pie chart representing the population proportion of 5 age groups, from 0 to 100 years old. Each group has the same or a similar range, but their population percentages differ. The age group and their proportion are marked in each pie slice.",3.5,3.5,2.5
+na_14_1_ZH,na_14_1,ZH,gpt_4o_python,"There is a pie chart representing the population proportion of 5 age groups, from 0 to 100 years old. Each group has the same or a similar range, but their population percentages differ. The age group and their proportion are marked in each pie slice.",4.5,5,5
+na_14_1_ZH,na_14_1,ZH,llama_python,"There is a pie chart representing the population proportion of 5 age groups, from 0 to 100 years old. Each group has the same or a similar range, but their population percentages differ. The age group and their proportion are marked in each pie slice.",4,4.5,5
+na_14_1_FA,na_14_1,FA,gpt_o1_python,"There is a pie chart representing the population proportion of 5 age groups, from 0 to 100 years old. Each group has the same or a similar range, but their population percentages differ. The age group and their proportion are marked in each pie slice.",4,4.5,5
+na_14_1_ZH,na_14_1,ZH,gpt_o1_tikz,"There is a pie chart representing the population proportion of 5 age groups, from 0 to 100 years old. Each group has the same or a similar range, but their population percentages differ. The age group and their proportion are marked in each pie slice.",0,0,0
+na_14_1_ZH,na_14_1,ZH,dalle,"There is a pie chart representing the population proportion of 5 age groups, from 0 to 100 years old. Each group has the same or a similar range, but their population percentages differ. The age group and their proportion are marked in each pie slice.",3.5,3,2.5
+na_14_1_ZH,na_14_1,ZH,llama_tikz,"There is a pie chart representing the population proportion of 5 age groups, from 0 to 100 years old. Each group has the same or a similar range, but their population percentages differ. The age group and their proportion are marked in each pie slice.",0,0,0
+na_14_1_DE,na_14_1,DE,llama_tikz,"There is a pie chart representing the population proportion of 5 age groups, from 0 to 100 years old. Each group has the same or a similar range, but their population percentages differ. The age group and their proportion are marked in each pie slice.",0,0,0
+na_14_1_DE,na_14_1,DE,gpt_o1_python,"There is a pie chart representing the population proportion of 5 age groups, from 0 to 100 years old. Each group has the same or a similar range, but their population percentages differ. The age group and their proportion are marked in each pie slice.",4.5,4.5,5
+na_14_1_EN,na_14_1,EN,gpt_o1_tikz,"There is a pie chart representing the population proportion of 5 age groups, from 0 to 100 years old. Each group has the same or a similar range, but their population percentages differ. The age group and their proportion are marked in each pie slice.",4.5,4.5,5
+nsa_3_1_EN,nsa_3_1,EN,gpt_o1_python,"Two parallel line segments are inside a circle, with all of their endpoints on the circle. Mark the endpoints with black dots.",5,4.5,5
+nsa_3_1_FA,nsa_3_1,FA,llama_python,"Two parallel line segments are inside a circle, with all of their endpoints on the circle. Mark the endpoints with black dots.",2,1.5,5
+nsa_3_1_ZH,nsa_3_1,ZH,gpt_4o_python,"Two parallel line segments are inside a circle, with all of their endpoints on the circle. Mark the endpoints with black dots.",5,4.5,5
+nsa_3_1_DE,nsa_3_1,DE,gpt_o1_python,"Two parallel line segments are inside a circle, with all of their endpoints on the circle. Mark the endpoints with black dots.",3,4,5
+nsa_3_1_ZH,nsa_3_1,ZH,dalle,"Two parallel line segments are inside a circle, with all of their endpoints on the circle. Mark the endpoints with black dots.",2.5,3,4
+nsa_3_1_DE,nsa_3_1,DE,gpt_4o_python,"Two parallel line segments are inside a circle, with all of their endpoints on the circle. Mark the endpoints with black dots.",5,4.5,5
+nsa_3_1_EN,nsa_3_1,EN,gpt_o1_tikz,"Two parallel line segments are inside a circle, with all of their endpoints on the circle. Mark the endpoints with black dots.",5,5,5
+nsa_3_1_FA,nsa_3_1,FA,gpt_o1_python,"Two parallel line segments are inside a circle, with all of their endpoints on the circle. Mark the endpoints with black dots.",4.5,4,5
+nsa_3_1_ZH,nsa_3_1,ZH,gpt_o1_tikz,"Two parallel line segments are inside a circle, with all of their endpoints on the circle. Mark the endpoints with black dots.",5,5,5
+nsa_3_1_ZH,nsa_3_1,ZH,gpt_4o_tikz,"Two parallel line segments are inside a circle, with all of their endpoints on the circle. Mark the endpoints with black dots.",3,5,5
+nsa_3_1_ZH,nsa_3_1,ZH,gpt_o1_python,"Two parallel line segments are inside a circle, with all of their endpoints on the circle. Mark the endpoints with black dots.",5,5,5
+nsa_3_1_DE,nsa_3_1,DE,llama_tikz,"Two parallel line segments are inside a circle, with all of their endpoints on the circle. Mark the endpoints with black dots.",5,5,5
+nsa_3_1_FA,nsa_3_1,FA,llama_tikz,"Two parallel line segments are inside a circle, with all of their endpoints on the circle. Mark the endpoints with black dots.",3.5,4.5,5
+nsa_3_1_DE,nsa_3_1,DE,gpt_4o_tikz,"Two parallel line segments are inside a circle, with all of their endpoints on the circle. Mark the endpoints with black dots.",5,5,5
+nsa_3_1_ZH,nsa_3_1,ZH,llama_python,"Two parallel line segments are inside a circle, with all of their endpoints on the circle. Mark the endpoints with black dots.",1.5,1.5,5
+nsa_3_1_FA,nsa_3_1,FA,gpt_4o_tikz,"Two parallel line segments are inside a circle, with all of their endpoints on the circle. Mark the endpoints with black dots.",5,5,5
+nsa_3_1_FA,nsa_3_1,FA,gpt_o1_tikz,"Two parallel line segments are inside a circle, with all of their endpoints on the circle. Mark the endpoints with black dots.",5,5,5
+nsa_3_1_ZH,nsa_3_1,ZH,llama_tikz,"Two parallel line segments are inside a circle, with all of their endpoints on the circle. Mark the endpoints with black dots.",0,0,0
+nsa_3_1_DE,nsa_3_1,DE,llama_python,"Two parallel line segments are inside a circle, with all of their endpoints on the circle. Mark the endpoints with black dots.",1.5,1.5,5
+nsa_3_1_FA,nsa_3_1,FA,dalle,"Two parallel line segments are inside a circle, with all of their endpoints on the circle. Mark the endpoints with black dots.",2.5,2.5,4
+nsa_3_1_DE,nsa_3_1,DE,dalle,"Two parallel line segments are inside a circle, with all of their endpoints on the circle. Mark the endpoints with black dots.",2.5,2,3.5
+nsa_3_1_FA,nsa_3_1,FA,gpt_4o_python,"Two parallel line segments are inside a circle, with all of their endpoints on the circle. Mark the endpoints with black dots.",5,3.5,5
+nsa_3_1_DE,nsa_3_1,DE,gpt_o1_tikz,"Two parallel line segments are inside a circle, with all of their endpoints on the circle. Mark the endpoints with black dots.",5,5,5
+nsa_8_2_DE,nsa_8_2,DE,gpt_4o_tikz,A bar chart with 4 bars and mark the leftmost bar in brown.,5,5,5
+nsa_8_2_FA,nsa_8_2,FA,dalle,A bar chart with 4 bars and mark the leftmost bar in brown.,3,4,1.5
+nsa_8_2_EN,nsa_8_2,EN,gpt_o1_tikz,A bar chart with 4 bars and mark the leftmost bar in brown.,5,5,4.5
+nsa_8_2_ZH,nsa_8_2,ZH,gpt_o1_python,A bar chart with 4 bars and mark the leftmost bar in brown.,1.5,1.5,3
+nsa_8_2_FA,nsa_8_2,FA,gpt_o1_python,A bar chart with 4 bars and mark the leftmost bar in brown.,1.5,1.5,3
+nsa_8_2_FA,nsa_8_2,FA,gpt_o1_tikz,A bar chart with 4 bars and mark the leftmost bar in brown.,5,5,4
+nsa_8_2_DE,nsa_8_2,DE,llama_tikz,A bar chart with 4 bars and mark the leftmost bar in brown.,0,0,0
+nsa_8_2_ZH,nsa_8_2,ZH,llama_tikz,A bar chart with 4 bars and mark the leftmost bar in brown.,3,4.5,4
+nsa_8_2_FA,nsa_8_2,FA,gpt_4o_tikz,A bar chart with 4 bars and mark the leftmost bar in brown.,3.5,4.5,4
+nsa_8_2_DE,nsa_8_2,DE,gpt_o1_python,A bar chart with 4 bars and mark the leftmost bar in brown.,1.5,1.5,3
+nsa_8_2_FA,nsa_8_2,FA,gpt_4o_python,A bar chart with 4 bars and mark the leftmost bar in brown.,3.5,3.5,3
+nsa_8_2_ZH,nsa_8_2,ZH,dalle,A bar chart with 4 bars and mark the leftmost bar in brown.,3,3.5,1.5
+nsa_8_2_DE,nsa_8_2,DE,gpt_o1_tikz,A bar chart with 4 bars and mark the leftmost bar in brown.,0,0,0
+nsa_8_2_ZH,nsa_8_2,ZH,llama_python,A bar chart with 4 bars and mark the leftmost bar in brown.,4.5,4.5,4.5
+nsa_8_2_ZH,nsa_8_2,ZH,gpt_4o_tikz,A bar chart with 4 bars and mark the leftmost bar in brown.,5,5,5
+nsa_8_2_DE,nsa_8_2,DE,llama_python,A bar chart with 4 bars and mark the leftmost bar in brown.,1.5,1.5,2.5
+nsa_8_2_EN,nsa_8_2,EN,gpt_o1_python,A bar chart with 4 bars and mark the leftmost bar in brown.,3,3,2.5
+nsa_8_2_ZH,nsa_8_2,ZH,gpt_4o_python,A bar chart with 4 bars and mark the leftmost bar in brown.,4.5,4.5,5
+nsa_8_2_FA,nsa_8_2,FA,llama_python,A bar chart with 4 bars and mark the leftmost bar in brown.,1.5,1.5,2
+nsa_8_2_ZH,nsa_8_2,ZH,gpt_o1_tikz,A bar chart with 4 bars and mark the leftmost bar in brown.,5,4.5,4.5
+nsa_8_2_DE,nsa_8_2,DE,gpt_4o_python,A bar chart with 4 bars and mark the leftmost bar in brown.,4,4,3.5
+nsa_8_2_FA,nsa_8_2,FA,llama_tikz,A bar chart with 4 bars and mark the leftmost bar in brown.,2.5,4,4.5
+nsa_8_2_DE,nsa_8_2,DE,dalle,A bar chart with 4 bars and mark the leftmost bar in brown.,5,5,2
+sa_8_4_ZH,sa_8_4,ZH,dalle,The intersection of the pentagon and the trapezoid is filled with blue.,1,1,1
+sa_8_4_ZH,sa_8_4,ZH,llama_tikz,The intersection of the pentagon and the trapezoid is filled with blue.,2.5,4,4
+sa_8_4_DE,sa_8_4,DE,llama_python,The intersection of the pentagon and the trapezoid is filled with blue.,3,3,4
+sa_8_4_DE,sa_8_4,DE,dalle,The intersection of the pentagon and the trapezoid is filled with blue.,1,1,1
+sa_8_4_FA,sa_8_4,FA,gpt_4o_python,The intersection of the pentagon and the trapezoid is filled with blue.,3,4,4.5
+sa_8_4_ZH,sa_8_4,ZH,llama_python,The intersection of the pentagon and the trapezoid is filled with blue.,3,4,5
+sa_8_4_EN,sa_8_4,EN,gpt_o1_python,The intersection of the pentagon and the trapezoid is filled with blue.,3.5,4,5
+sa_8_4_ZH,sa_8_4,ZH,gpt_o1_tikz,The intersection of the pentagon and the trapezoid is filled with blue.,3.5,4,5
+sa_8_4_DE,sa_8_4,DE,llama_tikz,The intersection of the pentagon and the trapezoid is filled with blue.,0,0,0
+sa_8_4_DE,sa_8_4,DE,gpt_o1_python,The intersection of the pentagon and the trapezoid is filled with blue.,4.5,4.5,5
+sa_8_4_ZH,sa_8_4,ZH,gpt_4o_tikz,The intersection of the pentagon and the trapezoid is filled with blue.,3,4,4
+sa_8_4_ZH,sa_8_4,ZH,gpt_o1_python,The intersection of the pentagon and the trapezoid is filled with blue.,4.5,4.5,5
+sa_8_4_FA,sa_8_4,FA,llama_tikz,The intersection of the pentagon and the trapezoid is filled with blue.,1.5,1.5,5
+sa_8_4_ZH,sa_8_4,ZH,gpt_4o_python,The intersection of the pentagon and the trapezoid is filled with blue.,4.5,4.5,5
+sa_8_4_DE,sa_8_4,DE,gpt_4o_tikz,The intersection of the pentagon and the trapezoid is filled with blue.,5,5,5
+sa_8_4_DE,sa_8_4,DE,gpt_o1_tikz,The intersection of the pentagon and the trapezoid is filled with blue.,3.5,4,5
+sa_8_4_FA,sa_8_4,FA,llama_python,The intersection of the pentagon and the trapezoid is filled with blue.,2,2,3.5
+sa_8_4_EN,sa_8_4,EN,gpt_o1_tikz,The intersection of the pentagon and the trapezoid is filled with blue.,5,5,5
+sa_8_4_FA,sa_8_4,FA,dalle,The intersection of the pentagon and the trapezoid is filled with blue.,1,1,1
+sa_8_4_FA,sa_8_4,FA,gpt_4o_tikz,The intersection of the pentagon and the trapezoid is filled with blue.,5,5,5
+sa_8_4_FA,sa_8_4,FA,gpt_o1_python,The intersection of the pentagon and the trapezoid is filled with blue.,0,0,0
+sa_8_4_DE,sa_8_4,DE,gpt_4o_python,The intersection of the pentagon and the trapezoid is filled with blue.,3.5,3.5,5
+sa_8_4_FA,sa_8_4,FA,gpt_o1_tikz,The intersection of the pentagon and the trapezoid is filled with blue.,3.5,4,5
+ns_4_4_ZH,ns_4_4,ZH,gpt_o1_python,There is a sphere in the middle of 2 cubes.,4,4,5
+ns_4_4_FA,ns_4_4,FA,gpt_o1_python,There is a sphere in the middle of 2 cubes.,4.5,5,5
+ns_4_4_ZH,ns_4_4,ZH,gpt_4o_tikz,There is a sphere in the middle of 2 cubes.,3.5,4.5,4
+ns_4_4_EN,ns_4_4,EN,gpt_o1_tikz,There is a sphere in the middle of 2 cubes.,5,5,4.5
+ns_4_4_ZH,ns_4_4,ZH,gpt_4o_python,There is a sphere in the middle of 2 cubes.,4,4,5
+ns_4_4_DE,ns_4_4,DE,gpt_o1_python,There is a sphere in the middle of 2 cubes.,4,4,5
+ns_4_4_DE,ns_4_4,DE,llama_tikz,There is a sphere in the middle of 2 cubes.,0,0,0
+ns_4_4_DE,ns_4_4,DE,gpt_4o_tikz,There is a sphere in the middle of 2 cubes.,4.5,4.5,4
+ns_4_4_FA,ns_4_4,FA,gpt_o1_tikz,There is a sphere in the middle of 2 cubes.,5,5,4.5
+ns_4_4_EN,ns_4_4,EN,gpt_o1_python,There is a sphere in the middle of 2 cubes.,4,4,4.5
+ns_4_4_ZH,ns_4_4,ZH,dalle,There is a sphere in the middle of 2 cubes.,2,2,1
+ns_4_4_ZH,ns_4_4,ZH,llama_tikz,There is a sphere in the middle of 2 cubes.,1,1.5,5
+ns_4_4_ZH,ns_4_4,ZH,llama_python,There is a sphere in the middle of 2 cubes.,0,0,0
+ns_4_4_FA,ns_4_4,FA,dalle,There is a sphere in the middle of 2 cubes.,2.5,2,1
+ns_4_4_FA,ns_4_4,FA,llama_python,There is a sphere in the middle of 2 cubes.,1.5,2,3.5
+ns_4_4_DE,ns_4_4,DE,llama_python,There is a sphere in the middle of 2 cubes.,0,0,0
+ns_4_4_DE,ns_4_4,DE,gpt_o1_tikz,There is a sphere in the middle of 2 cubes.,4.5,5,4.5
+ns_4_4_DE,ns_4_4,DE,dalle,There is a sphere in the middle of 2 cubes.,2.5,2,1.5
+ns_4_4_FA,ns_4_4,FA,llama_tikz,There is a sphere in the middle of 2 cubes.,1,1,3
+ns_4_4_FA,ns_4_4,FA,gpt_4o_tikz,There is a sphere in the middle of 2 cubes.,5,5,5
+ns_4_4_FA,ns_4_4,FA,gpt_4o_python,There is a sphere in the middle of 2 cubes.,0,0,0
+ns_4_4_DE,ns_4_4,DE,gpt_4o_python,There is a sphere in the middle of 2 cubes.,3,3.5,3
+ns_4_4_ZH,ns_4_4,ZH,gpt_o1_tikz,There is a sphere in the middle of 2 cubes.,4.5,5,4
+n_15_3_ZH,n_15_3,ZH,dalle,"A bar chart shows the number of graduates in different subjects within the community. 1,800 studied humanities, 4,500 studied science, and 5,520 studied engineering. The values are marked at the top of each bar.",1.5,1.5,1.5
+n_15_3_ZH,n_15_3,ZH,llama_python,"A bar chart shows the number of graduates in different subjects within the community. 1,800 studied humanities, 4,500 studied science, and 5,520 studied engineering. The values are marked at the top of each bar.",0,0,0
+n_15_3_ZH,n_15_3,ZH,llama_tikz,"A bar chart shows the number of graduates in different subjects within the community. 1,800 studied humanities, 4,500 studied science, and 5,520 studied engineering. The values are marked at the top of each bar.",0,0,0
+n_15_3_FA,n_15_3,FA,gpt_4o_tikz,"A bar chart shows the number of graduates in different subjects within the community. 1,800 studied humanities, 4,500 studied science, and 5,520 studied engineering. The values are marked at the top of each bar.",0,0,0
+n_15_3_FA,n_15_3,FA,gpt_4o_python,"A bar chart shows the number of graduates in different subjects within the community. 1,800 studied humanities, 4,500 studied science, and 5,520 studied engineering. The values are marked at the top of each bar.",5,5,5
+n_15_3_FA,n_15_3,FA,dalle,"A bar chart shows the number of graduates in different subjects within the community. 1,800 studied humanities, 4,500 studied science, and 5,520 studied engineering. The values are marked at the top of each bar.",2,2.5,1.5
+n_15_3_DE,n_15_3,DE,gpt_4o_python,"A bar chart shows the number of graduates in different subjects within the community. 1,800 studied humanities, 4,500 studied science, and 5,520 studied engineering. The values are marked at the top of each bar.",5,5,5
+n_15_3_FA,n_15_3,FA,llama_tikz,"A bar chart shows the number of graduates in different subjects within the community. 1,800 studied humanities, 4,500 studied science, and 5,520 studied engineering. The values are marked at the top of each bar.",0,0,0
+n_15_3_ZH,n_15_3,ZH,gpt_4o_python,"A bar chart shows the number of graduates in different subjects within the community. 1,800 studied humanities, 4,500 studied science, and 5,520 studied engineering. The values are marked at the top of each bar.",5,5,4.5
+n_15_3_DE,n_15_3,DE,gpt_o1_python,"A bar chart shows the number of graduates in different subjects within the community. 1,800 studied humanities, 4,500 studied science, and 5,520 studied engineering. The values are marked at the top of each bar.",5,5,5
+n_15_3_ZH,n_15_3,ZH,gpt_4o_tikz,"A bar chart shows the number of graduates in different subjects within the community. 1,800 studied humanities, 4,500 studied science, and 5,520 studied engineering. The values are marked at the top of each bar.",5,5,5
+n_15_3_EN,n_15_3,EN,gpt_o1_tikz,"A bar chart shows the number of graduates in different subjects within the community. 1,800 studied humanities, 4,500 studied science, and 5,520 studied engineering. The values are marked at the top of each bar.",0,0,0
+n_15_3_DE,n_15_3,DE,dalle,"A bar chart shows the number of graduates in different subjects within the community. 1,800 studied humanities, 4,500 studied science, and 5,520 studied engineering. The values are marked at the top of each bar.",1.5,1.5,1
+n_15_3_FA,n_15_3,FA,gpt_o1_python,"A bar chart shows the number of graduates in different subjects within the community. 1,800 studied humanities, 4,500 studied science, and 5,520 studied engineering. The values are marked at the top of each bar.",5,5,5
+n_15_3_DE,n_15_3,DE,gpt_4o_tikz,"A bar chart shows the number of graduates in different subjects within the community. 1,800 studied humanities, 4,500 studied science, and 5,520 studied engineering. The values are marked at the top of each bar.",0,0,0
+n_15_3_FA,n_15_3,FA,llama_python,"A bar chart shows the number of graduates in different subjects within the community. 1,800 studied humanities, 4,500 studied science, and 5,520 studied engineering. The values are marked at the top of each bar.",4.5,4.5,5
+n_15_3_DE,n_15_3,DE,llama_python,"A bar chart shows the number of graduates in different subjects within the community. 1,800 studied humanities, 4,500 studied science, and 5,520 studied engineering. The values are marked at the top of each bar.",0,0,0
+n_15_3_DE,n_15_3,DE,gpt_o1_tikz,"A bar chart shows the number of graduates in different subjects within the community. 1,800 studied humanities, 4,500 studied science, and 5,520 studied engineering. The values are marked at the top of each bar.",0,0,0
+n_15_3_DE,n_15_3,DE,llama_tikz,"A bar chart shows the number of graduates in different subjects within the community. 1,800 studied humanities, 4,500 studied science, and 5,520 studied engineering. The values are marked at the top of each bar.",0,0,0
+n_15_3_ZH,n_15_3,ZH,gpt_o1_python,"A bar chart shows the number of graduates in different subjects within the community. 1,800 studied humanities, 4,500 studied science, and 5,520 studied engineering. The values are marked at the top of each bar.",5,5,4.5
+n_15_3_FA,n_15_3,FA,gpt_o1_tikz,"A bar chart shows the number of graduates in different subjects within the community. 1,800 studied humanities, 4,500 studied science, and 5,520 studied engineering. The values are marked at the top of each bar.",0,0,0
+n_15_3_EN,n_15_3,EN,gpt_o1_python,"A bar chart shows the number of graduates in different subjects within the community. 1,800 studied humanities, 4,500 studied science, and 5,520 studied engineering. The values are marked at the top of each bar.",5,5,5
+n_15_3_ZH,n_15_3,ZH,gpt_o1_tikz,"A bar chart shows the number of graduates in different subjects within the community. 1,800 studied humanities, 4,500 studied science, and 5,520 studied engineering. The values are marked at the top of each bar.",0,0,0
+na_13_3_FA,na_13_3,FA,gpt_4o_python,"There are 8 monochrome hexagonal prism in a row and they are filled with blue colors, with colors gradually changing from lighter to darker.",5,5,4.5
+na_13_3_ZH,na_13_3,ZH,llama_python,"There are 8 monochrome hexagonal prism in a row and they are filled with blue colors, with colors gradually changing from lighter to darker.",0,0,0
+na_13_3_FA,na_13_3,FA,dalle,"There are 8 monochrome hexagonal prism in a row and they are filled with blue colors, with colors gradually changing from lighter to darker.",2,2,1
+na_13_3_ZH,na_13_3,ZH,gpt_o1_python,"There are 8 monochrome hexagonal prism in a row and they are filled with blue colors, with colors gradually changing from lighter to darker.",5,5,4.5
+na_13_3_FA,na_13_3,FA,gpt_o1_python,"There are 8 monochrome hexagonal prism in a row and they are filled with blue colors, with colors gradually changing from lighter to darker.",5,5,5
+na_13_3_ZH,na_13_3,ZH,gpt_4o_python,"There are 8 monochrome hexagonal prism in a row and they are filled with blue colors, with colors gradually changing from lighter to darker.",4.5,5,5
+na_13_3_ZH,na_13_3,ZH,gpt_o1_tikz,"There are 8 monochrome hexagonal prism in a row and they are filled with blue colors, with colors gradually changing from lighter to darker.",4.5,4.5,4.5
+na_13_3_ZH,na_13_3,ZH,gpt_4o_tikz,"There are 8 monochrome hexagonal prism in a row and they are filled with blue colors, with colors gradually changing from lighter to darker.",3.5,4.5,3
+na_13_3_FA,na_13_3,FA,llama_python,"There are 8 monochrome hexagonal prism in a row and they are filled with blue colors, with colors gradually changing from lighter to darker.",2,3.5,5
+na_13_3_FA,na_13_3,FA,llama_tikz,"There are 8 monochrome hexagonal prism in a row and they are filled with blue colors, with colors gradually changing from lighter to darker.",2.5,3.5,5
+na_13_3_FA,na_13_3,FA,gpt_o1_tikz,"There are 8 monochrome hexagonal prism in a row and they are filled with blue colors, with colors gradually changing from lighter to darker.",5,5,5
+na_13_3_DE,na_13_3,DE,llama_tikz,"There are 8 monochrome hexagonal prism in a row and they are filled with blue colors, with colors gradually changing from lighter to darker.",0,0,0
+na_13_3_DE,na_13_3,DE,gpt_o1_python,"There are 8 monochrome hexagonal prism in a row and they are filled with blue colors, with colors gradually changing from lighter to darker.",2,2,3
+na_13_3_DE,na_13_3,DE,gpt_4o_tikz,"There are 8 monochrome hexagonal prism in a row and they are filled with blue colors, with colors gradually changing from lighter to darker.",3.5,4,3
+na_13_3_EN,na_13_3,EN,gpt_o1_python,"There are 8 monochrome hexagonal prism in a row and they are filled with blue colors, with colors gradually changing from lighter to darker.",2,2,2.5
+na_13_3_FA,na_13_3,FA,gpt_4o_tikz,"There are 8 monochrome hexagonal prism in a row and they are filled with blue colors, with colors gradually changing from lighter to darker.",5,5,5
+na_13_3_DE,na_13_3,DE,gpt_o1_tikz,"There are 8 monochrome hexagonal prism in a row and they are filled with blue colors, with colors gradually changing from lighter to darker.",0,0,0
+na_13_3_DE,na_13_3,DE,llama_python,"There are 8 monochrome hexagonal prism in a row and they are filled with blue colors, with colors gradually changing from lighter to darker.",0,0,0
+na_13_3_ZH,na_13_3,ZH,llama_tikz,"There are 8 monochrome hexagonal prism in a row and they are filled with blue colors, with colors gradually changing from lighter to darker.",0,0,0
+na_13_3_ZH,na_13_3,ZH,dalle,"There are 8 monochrome hexagonal prism in a row and they are filled with blue colors, with colors gradually changing from lighter to darker.",2,2,1
+na_13_3_DE,na_13_3,DE,gpt_4o_python,"There are 8 monochrome hexagonal prism in a row and they are filled with blue colors, with colors gradually changing from lighter to darker.",5,5,3.5
+na_13_3_DE,na_13_3,DE,dalle,"There are 8 monochrome hexagonal prism in a row and they are filled with blue colors, with colors gradually changing from lighter to darker.",2,2,1
+na_13_3_EN,na_13_3,EN,gpt_o1_tikz,"There are 8 monochrome hexagonal prism in a row and they are filled with blue colors, with colors gradually changing from lighter to darker.",5,4.5,4.5
+s_3_3_DE,s_3_3,DE,gpt_4o_tikz,There is a triangle in the upper left corner of a square.,5,5,5
+s_3_3_DE,s_3_3,DE,gpt_o1_python,There is a triangle in the upper left corner of a square.,5,5,5
+s_3_3_DE,s_3_3,DE,gpt_4o_python,There is a triangle in the upper left corner of a square.,5,5,5
+s_3_3_DE,s_3_3,DE,gpt_o1_tikz,There is a triangle in the upper left corner of a square.,5,5,5
+s_3_3_ZH,s_3_3,ZH,llama_tikz,There is a triangle in the upper left corner of a square.,2.5,2.5,5
+s_3_3_FA,s_3_3,FA,llama_python,There is a triangle in the upper left corner of a square.,2,2,2.5
+s_3_3_ZH,s_3_3,ZH,gpt_o1_python,There is a triangle in the upper left corner of a square.,4.5,4.5,5
+s_3_3_ZH,s_3_3,ZH,gpt_o1_tikz,There is a triangle in the upper left corner of a square.,5,5,5
+s_3_3_ZH,s_3_3,ZH,dalle,There is a triangle in the upper left corner of a square.,2,2,1
+s_3_3_FA,s_3_3,FA,gpt_o1_tikz,There is a triangle in the upper left corner of a square.,5,5,5
+s_3_3_FA,s_3_3,FA,gpt_o1_python,There is a triangle in the upper left corner of a square.,5,5,5
+s_3_3_FA,s_3_3,FA,llama_tikz,There is a triangle in the upper left corner of a square.,1.5,2,5
+s_3_3_DE,s_3_3,DE,llama_tikz,There is a triangle in the upper left corner of a square.,2.5,3,5
+s_3_3_ZH,s_3_3,ZH,gpt_4o_python,There is a triangle in the upper left corner of a square.,2,2,5
+s_3_3_FA,s_3_3,FA,gpt_4o_python,There is a triangle in the upper left corner of a square.,5,5,5
+s_3_3_DE,s_3_3,DE,dalle,There is a triangle in the upper left corner of a square.,2,2,1
+s_3_3_EN,s_3_3,EN,gpt_o1_tikz,There is a triangle in the upper left corner of a square.,5,5,5
+s_3_3_EN,s_3_3,EN,gpt_o1_python,There is a triangle in the upper left corner of a square.,5,5,5
+s_3_3_ZH,s_3_3,ZH,gpt_4o_tikz,There is a triangle in the upper left corner of a square.,4,5,5
+s_3_3_FA,s_3_3,FA,gpt_4o_tikz,There is a triangle in the upper left corner of a square.,5,5,5
+s_3_3_DE,s_3_3,DE,llama_python,There is a triangle in the upper left corner of a square.,3,4.5,5
+s_3_3_FA,s_3_3,FA,dalle,There is a triangle in the upper left corner of a square.,1,1,1
+s_3_3_ZH,s_3_3,ZH,llama_python,There is a triangle in the upper left corner of a square.,2,2,2
+ns_2_3_ZH,ns_2_3,ZH,llama_python,5 cubes in the lower left corner of the cuboid.,1.5,1.5,2
+ns_2_3_ZH,ns_2_3,ZH,gpt_4o_python,5 cubes in the lower left corner of the cuboid.,2,2.5,3.5
+ns_2_3_FA,ns_2_3,FA,gpt_o1_python,5 cubes in the lower left corner of the cuboid.,4.5,4,4.5
+ns_2_3_ZH,ns_2_3,ZH,gpt_o1_python,5 cubes in the lower left corner of the cuboid.,4.5,4,4.5
+ns_2_3_EN,ns_2_3,EN,gpt_o1_tikz,5 cubes in the lower left corner of the cuboid.,3.5,4.5,4
+ns_2_3_FA,ns_2_3,FA,llama_tikz,5 cubes in the lower left corner of the cuboid.,0,0,0
+ns_2_3_DE,ns_2_3,DE,gpt_4o_tikz,5 cubes in the lower left corner of the cuboid.,4,4,4
+ns_2_3_ZH,ns_2_3,ZH,dalle,5 cubes in the lower left corner of the cuboid.,2,2,1
+ns_2_3_FA,ns_2_3,FA,gpt_o1_tikz,5 cubes in the lower left corner of the cuboid.,3.5,5,4
+ns_2_3_DE,ns_2_3,DE,gpt_o1_tikz,5 cubes in the lower left corner of the cuboid.,4.5,4.5,4.5
+ns_2_3_EN,ns_2_3,EN,gpt_o1_python,5 cubes in the lower left corner of the cuboid.,4.5,4.5,4
+ns_2_3_DE,ns_2_3,DE,gpt_o1_python,5 cubes in the lower left corner of the cuboid.,0,0,0
+ns_2_3_DE,ns_2_3,DE,llama_tikz,5 cubes in the lower left corner of the cuboid.,1,1,2
+ns_2_3_ZH,ns_2_3,ZH,llama_tikz,5 cubes in the lower left corner of the cuboid.,1,1,1.5
+ns_2_3_DE,ns_2_3,DE,dalle,5 cubes in the lower left corner of the cuboid.,2.5,2.5,1
+ns_2_3_FA,ns_2_3,FA,llama_python,5 cubes in the lower left corner of the cuboid.,1.5,1,3
+ns_2_3_ZH,ns_2_3,ZH,gpt_4o_tikz,5 cubes in the lower left corner of the cuboid.,4,5,3.5
+ns_2_3_ZH,ns_2_3,ZH,gpt_o1_tikz,5 cubes in the lower left corner of the cuboid.,3,5,4
+ns_2_3_DE,ns_2_3,DE,gpt_4o_python,5 cubes in the lower left corner of the cuboid.,2.5,2.5,3.5
+ns_2_3_FA,ns_2_3,FA,dalle,5 cubes in the lower left corner of the cuboid.,1.5,1.5,1
+ns_2_3_FA,ns_2_3,FA,gpt_4o_tikz,5 cubes in the lower left corner of the cuboid.,0,0,0
+ns_2_3_FA,ns_2_3,FA,gpt_4o_python,5 cubes in the lower left corner of the cuboid.,2.5,3,4.5
+ns_2_3_DE,ns_2_3,DE,llama_python,5 cubes in the lower left corner of the cuboid.,1.5,1,4
+a_9_3_DE,a_9_3,DE,gpt_4o_python,A quadrilateral with rounded corners.,5,5,5
+a_9_3_EN,a_9_3,EN,gpt_o1_python,A quadrilateral with rounded corners.,5,5,5
+a_9_3_ZH,a_9_3,ZH,dalle,A quadrilateral with rounded corners.,1.5,1.5,1.5
+a_9_3_ZH,a_9_3,ZH,gpt_o1_python,A quadrilateral with rounded corners.,0,0,0
+a_9_3_DE,a_9_3,DE,llama_python,A quadrilateral with rounded corners.,1,1,4
+a_9_3_EN,a_9_3,EN,gpt_o1_tikz,A quadrilateral with rounded corners.,5,5,5
+a_9_3_ZH,a_9_3,ZH,gpt_4o_python,A quadrilateral with rounded corners.,5,5,5
+a_9_3_FA,a_9_3,FA,llama_python,A quadrilateral with rounded corners.,1,1.5,3.5
+a_9_3_FA,a_9_3,FA,gpt_o1_tikz,A quadrilateral with rounded corners.,5,5,5
+a_9_3_ZH,a_9_3,ZH,gpt_o1_tikz,A quadrilateral with rounded corners.,5,5,5
+a_9_3_ZH,a_9_3,ZH,llama_tikz,A quadrilateral with rounded corners.,2,2,4.5
+a_9_3_FA,a_9_3,FA,llama_tikz,A quadrilateral with rounded corners.,1,1,5
+a_9_3_FA,a_9_3,FA,gpt_o1_python,A quadrilateral with rounded corners.,2,2.5,5
+a_9_3_FA,a_9_3,FA,gpt_4o_tikz,A quadrilateral with rounded corners.,5,5,5
+a_9_3_DE,a_9_3,DE,dalle,A quadrilateral with rounded corners.,1.5,1.5,1
+a_9_3_DE,a_9_3,DE,gpt_4o_tikz,A quadrilateral with rounded corners.,5,5,5
+a_9_3_DE,a_9_3,DE,gpt_o1_python,A quadrilateral with rounded corners.,4.5,4,5
+a_9_3_FA,a_9_3,FA,gpt_4o_python,A quadrilateral with rounded corners.,4.5,4.5,5
+a_9_3_ZH,a_9_3,ZH,gpt_4o_tikz,A quadrilateral with rounded corners.,5,5,5
+a_9_3_FA,a_9_3,FA,dalle,A quadrilateral with rounded corners.,2,2,1
+a_9_3_DE,a_9_3,DE,llama_tikz,A quadrilateral with rounded corners.,2,2,4
+a_9_3_DE,a_9_3,DE,gpt_o1_tikz,A quadrilateral with rounded corners.,5,5,5
+a_9_3_ZH,a_9_3,ZH,llama_python,A quadrilateral with rounded corners.,1.5,1.5,4
+na_8_1_ZH,na_8_1,ZH,llama_tikz,There is a polygon with 3 sides. Each side has a different color.,1.5,2,4.5
+na_8_1_DE,na_8_1,DE,llama_tikz,There is a polygon with 3 sides. Each side has a different color.,0,0,0
+na_8_1_EN,na_8_1,EN,gpt_o1_tikz,There is a polygon with 3 sides. Each side has a different color.,5,5,5
+na_8_1_DE,na_8_1,DE,llama_python,There is a polygon with 3 sides. Each side has a different color.,0,0,0
+na_8_1_DE,na_8_1,DE,dalle,There is a polygon with 3 sides. Each side has a different color.,1,1,1
+na_8_1_DE,na_8_1,DE,gpt_o1_tikz,There is a polygon with 3 sides. Each side has a different color.,5,5,5
+na_8_1_ZH,na_8_1,ZH,gpt_4o_python,There is a polygon with 3 sides. Each side has a different color.,5,5,5
+na_8_1_DE,na_8_1,DE,gpt_4o_python,There is a polygon with 3 sides. Each side has a different color.,4.5,4,5
+na_8_1_EN,na_8_1,EN,gpt_o1_python,There is a polygon with 3 sides. Each side has a different color.,3.5,2,4.5
+na_8_1_FA,na_8_1,FA,llama_python,There is a polygon with 3 sides. Each side has a different color.,1,1,4
+na_8_1_FA,na_8_1,FA,gpt_4o_tikz,There is a polygon with 3 sides. Each side has a different color.,5,5,5
+na_8_1_FA,na_8_1,FA,llama_tikz,There is a polygon with 3 sides. Each side has a different color.,2.5,3,5
+na_8_1_FA,na_8_1,FA,gpt_4o_python,There is a polygon with 3 sides. Each side has a different color.,4.5,4,5
+na_8_1_FA,na_8_1,FA,gpt_o1_tikz,There is a polygon with 3 sides. Each side has a different color.,5,5,5
+na_8_1_ZH,na_8_1,ZH,dalle,There is a polygon with 3 sides. Each side has a different color.,1.5,1.5,1.5
+na_8_1_DE,na_8_1,DE,gpt_4o_tikz,There is a polygon with 3 sides. Each side has a different color.,5,5,5
+na_8_1_FA,na_8_1,FA,gpt_o1_python,There is a polygon with 3 sides. Each side has a different color.,4,4.5,5
+na_8_1_ZH,na_8_1,ZH,llama_python,There is a polygon with 3 sides. Each side has a different color.,4,4,5
+na_8_1_ZH,na_8_1,ZH,gpt_4o_tikz,There is a polygon with 3 sides. Each side has a different color.,5,5,5
+na_8_1_FA,na_8_1,FA,dalle,There is a polygon with 3 sides. Each side has a different color.,2,2,1.5
+na_8_1_ZH,na_8_1,ZH,gpt_o1_tikz,There is a polygon with 3 sides. Each side has a different color.,5,5,5
+na_8_1_ZH,na_8_1,ZH,gpt_o1_python,There is a polygon with 3 sides. Each side has a different color.,4,4,5
+na_8_1_DE,na_8_1,DE,gpt_o1_python,There is a polygon with 3 sides. Each side has a different color.,1.5,1.5,2
+s_11_1_DE,s_11_1,DE,gpt_o1_python,Many circles are embedded within each other without intersection.,5,5,5
+s_11_1_FA,s_11_1,FA,gpt_4o_python,Many circles are embedded within each other without intersection.,5,4.5,5
+s_11_1_ZH,s_11_1,ZH,dalle,Many circles are embedded within each other without intersection.,1,2.5,1
+s_11_1_FA,s_11_1,FA,llama_tikz,Many circles are embedded within each other without intersection.,1.5,3.5,5
+s_11_1_EN,s_11_1,EN,gpt_o1_tikz,Many circles are embedded within each other without intersection.,0.5,0.5,0.5
+s_11_1_DE,s_11_1,DE,gpt_4o_python,Many circles are embedded within each other without intersection.,4,4.5,4.5
+s_11_1_DE,s_11_1,DE,gpt_4o_tikz,Many circles are embedded within each other without intersection.,5,5,5
+s_11_1_ZH,s_11_1,ZH,llama_python,Many circles are embedded within each other without intersection.,1,1.5,5
+s_11_1_EN,s_11_1,EN,gpt_o1_python,Many circles are embedded within each other without intersection.,5,4.5,5
+s_11_1_ZH,s_11_1,ZH,gpt_o1_python,Many circles are embedded within each other without intersection.,5,4.5,5
+s_11_1_FA,s_11_1,FA,gpt_4o_tikz,Many circles are embedded within each other without intersection.,5,5,5
+s_11_1_DE,s_11_1,DE,llama_tikz,Many circles are embedded within each other without intersection.,1.5,2,3
+s_11_1_DE,s_11_1,DE,dalle,Many circles are embedded within each other without intersection.,1.5,1.5,1
+s_11_1_DE,s_11_1,DE,gpt_o1_tikz,Many circles are embedded within each other without intersection.,5,5,5
+s_11_1_DE,s_11_1,DE,llama_python,Many circles are embedded within each other without intersection.,1,1,3
+s_11_1_FA,s_11_1,FA,llama_python,Many circles are embedded within each other without intersection.,0,0,0
+s_11_1_FA,s_11_1,FA,dalle,Many circles are embedded within each other without intersection.,1.5,1,1
+s_11_1_FA,s_11_1,FA,gpt_o1_tikz,Many circles are embedded within each other without intersection.,5,5,3.5
+s_11_1_ZH,s_11_1,ZH,gpt_4o_tikz,Many circles are embedded within each other without intersection.,5,5,5
+s_11_1_ZH,s_11_1,ZH,llama_tikz,Many circles are embedded within each other without intersection.,1.5,3.5,4
+s_11_1_ZH,s_11_1,ZH,gpt_o1_tikz,Many circles are embedded within each other without intersection.,5,5,5
+s_11_1_FA,s_11_1,FA,gpt_o1_python,Many circles are embedded within each other without intersection.,5,4.5,5
+s_11_1_ZH,s_11_1,ZH,gpt_4o_python,Many circles are embedded within each other without intersection.,5,4.5,5
+s_12_2_ZH,s_12_2,ZH,gpt_o1_python,The tennis ball moves along a parabola.,1,1,1.5
+s_12_2_DE,s_12_2,DE,gpt_4o_python,The tennis ball moves along a parabola.,2.5,3.5,5
+s_12_2_EN,s_12_2,EN,gpt_o1_python,The tennis ball moves along a parabola.,4,4,5
+s_12_2_ZH,s_12_2,ZH,gpt_4o_tikz,The tennis ball moves along a parabola.,5,5,5
+s_12_2_FA,s_12_2,FA,gpt_o1_tikz,The tennis ball moves along a parabola.,5,5,5
+s_12_2_EN,s_12_2,EN,gpt_o1_tikz,The tennis ball moves along a parabola.,5,5,5
+s_12_2_DE,s_12_2,DE,llama_tikz,The tennis ball moves along a parabola.,0,0,0
+s_12_2_DE,s_12_2,DE,gpt_4o_tikz,The tennis ball moves along a parabola.,2,3.5,5
+s_12_2_DE,s_12_2,DE,gpt_o1_tikz,The tennis ball moves along a parabola.,5,5,5
+s_12_2_ZH,s_12_2,ZH,gpt_o1_tikz,The tennis ball moves along a parabola.,5,5,5
+s_12_2_ZH,s_12_2,ZH,dalle,The tennis ball moves along a parabola.,1,1.5,1
+s_12_2_FA,s_12_2,FA,llama_tikz,The tennis ball moves along a parabola.,0,0,0
+s_12_2_FA,s_12_2,FA,llama_python,The tennis ball moves along a parabola.,1,2,4
+s_12_2_FA,s_12_2,FA,gpt_4o_tikz,The tennis ball moves along a parabola.,1,1,1.5
+s_12_2_DE,s_12_2,DE,dalle,The tennis ball moves along a parabola.,1.5,1.5,1
+s_12_2_ZH,s_12_2,ZH,gpt_4o_python,The tennis ball moves along a parabola.,3.5,3.5,5
+s_12_2_ZH,s_12_2,ZH,llama_tikz,The tennis ball moves along a parabola.,0,0,0
+s_12_2_ZH,s_12_2,ZH,llama_python,The tennis ball moves along a parabola.,1.5,3,4
+s_12_2_FA,s_12_2,FA,dalle,The tennis ball moves along a parabola.,1,1.5,1
+s_12_2_FA,s_12_2,FA,gpt_4o_python,The tennis ball moves along a parabola.,2,2.5,3
+s_12_2_DE,s_12_2,DE,llama_python,The tennis ball moves along a parabola.,1.5,2.5,3.5
+s_12_2_FA,s_12_2,FA,gpt_o1_python,The tennis ball moves along a parabola.,1,1,1.5
+s_12_2_DE,s_12_2,DE,gpt_o1_python,The tennis ball moves along a parabola.,4,4,5
+ns_13_1_DE,ns_13_1,DE,gpt_4o_python,There are 5 squares on the left side of the canvas and 3 circles on the right side.,4.5,5,4.5
+ns_13_1_FA,ns_13_1,FA,gpt_o1_tikz,There are 5 squares on the left side of the canvas and 3 circles on the right side.,5,5,5
+ns_13_1_ZH,ns_13_1,ZH,dalle,There are 5 squares on the left side of the canvas and 3 circles on the right side.,1,1.5,1
+ns_13_1_ZH,ns_13_1,ZH,gpt_4o_tikz,There are 5 squares on the left side of the canvas and 3 circles on the right side.,5,5,5
+ns_13_1_FA,ns_13_1,FA,llama_python,There are 5 squares on the left side of the canvas and 3 circles on the right side.,1,1,3
+ns_13_1_FA,ns_13_1,FA,gpt_4o_tikz,There are 5 squares on the left side of the canvas and 3 circles on the right side.,5,4.5,5
+ns_13_1_DE,ns_13_1,DE,dalle,There are 5 squares on the left side of the canvas and 3 circles on the right side.,1.5,1.5,1
+ns_13_1_ZH,ns_13_1,ZH,gpt_o1_tikz,There are 5 squares on the left side of the canvas and 3 circles on the right side.,5,5,5
+ns_13_1_FA,ns_13_1,FA,dalle,There are 5 squares on the left side of the canvas and 3 circles on the right side.,1.5,2,1.5
+ns_13_1_ZH,ns_13_1,ZH,llama_tikz,There are 5 squares on the left side of the canvas and 3 circles on the right side.,1.5,2.5,3
+ns_13_1_ZH,ns_13_1,ZH,gpt_4o_python,There are 5 squares on the left side of the canvas and 3 circles on the right side.,5,4.5,5
+ns_13_1_EN,ns_13_1,EN,gpt_o1_python,There are 5 squares on the left side of the canvas and 3 circles on the right side.,5,4.5,5
+ns_13_1_EN,ns_13_1,EN,gpt_o1_tikz,There are 5 squares on the left side of the canvas and 3 circles on the right side.,5,5,5
+ns_13_1_ZH,ns_13_1,ZH,llama_python,There are 5 squares on the left side of the canvas and 3 circles on the right side.,3,3.5,4.5
+ns_13_1_FA,ns_13_1,FA,gpt_4o_python,There are 5 squares on the left side of the canvas and 3 circles on the right side.,5,4.5,5
+ns_13_1_ZH,ns_13_1,ZH,gpt_o1_python,There are 5 squares on the left side of the canvas and 3 circles on the right side.,5,5,5
+ns_13_1_DE,ns_13_1,DE,llama_python,There are 5 squares on the left side of the canvas and 3 circles on the right side.,3.5,3.5,4.5
+ns_13_1_DE,ns_13_1,DE,llama_tikz,There are 5 squares on the left side of the canvas and 3 circles on the right side.,3,4,4.5
+ns_13_1_DE,ns_13_1,DE,gpt_o1_tikz,There are 5 squares on the left side of the canvas and 3 circles on the right side.,5,5,4.5
+ns_13_1_DE,ns_13_1,DE,gpt_4o_tikz,There are 5 squares on the left side of the canvas and 3 circles on the right side.,5,5,4.5
+ns_13_1_FA,ns_13_1,FA,llama_tikz,There are 5 squares on the left side of the canvas and 3 circles on the right side.,3,3.5,4.5
+ns_13_1_FA,ns_13_1,FA,gpt_o1_python,There are 5 squares on the left side of the canvas and 3 circles on the right side.,5,5,5
+ns_13_1_DE,ns_13_1,DE,gpt_o1_python,There are 5 squares on the left side of the canvas and 3 circles on the right side.,5,5,5
+a_10_1_ZH,a_10_1,ZH,gpt_o1_tikz,A triangle with sides of equal length.,5,5,5
+a_10_1_DE,a_10_1,DE,llama_tikz,A triangle with sides of equal length.,5,5,5
+a_10_1_ZH,a_10_1,ZH,gpt_o1_python,A triangle with sides of equal length.,5,4.5,5
+a_10_1_ZH,a_10_1,ZH,gpt_4o_tikz,A triangle with sides of equal length.,5,5,5
+a_10_1_FA,a_10_1,FA,gpt_4o_python,A triangle with sides of equal length.,5,4.5,5
+a_10_1_FA,a_10_1,FA,dalle,A triangle with sides of equal length.,2,2,1
+a_10_1_FA,a_10_1,FA,gpt_o1_python,A triangle with sides of equal length.,3.5,4,4
+a_10_1_EN,a_10_1,EN,gpt_o1_python,A triangle with sides of equal length.,5,4.5,5
+a_10_1_DE,a_10_1,DE,gpt_o1_python,A triangle with sides of equal length.,5,4.5,5
+a_10_1_DE,a_10_1,DE,dalle,A triangle with sides of equal length.,4,2.5,2.5
+a_10_1_DE,a_10_1,DE,llama_python,A triangle with sides of equal length.,1,1,3
+a_10_1_FA,a_10_1,FA,llama_tikz,A triangle with sides of equal length.,1,1.5,4.5
+a_10_1_FA,a_10_1,FA,gpt_4o_tikz,A triangle with sides of equal length.,5,5,5
+a_10_1_DE,a_10_1,DE,gpt_4o_python,A triangle with sides of equal length.,5,4.5,5
+a_10_1_ZH,a_10_1,ZH,dalle,A triangle with sides of equal length.,1.5,2,1.5
+a_10_1_ZH,a_10_1,ZH,gpt_4o_python,A triangle with sides of equal length.,5,4.5,5
+a_10_1_EN,a_10_1,EN,gpt_o1_tikz,A triangle with sides of equal length.,5,5,5
+a_10_1_DE,a_10_1,DE,gpt_o1_tikz,A triangle with sides of equal length.,5,5,5
+a_10_1_FA,a_10_1,FA,gpt_o1_tikz,A triangle with sides of equal length.,5,5,5
+a_10_1_ZH,a_10_1,ZH,llama_python,A triangle with sides of equal length.,1,1,3.5
+a_10_1_FA,a_10_1,FA,llama_python,A triangle with sides of equal length.,3.5,2.5,4.5
+a_10_1_DE,a_10_1,DE,gpt_4o_tikz,A triangle with sides of equal length.,5,5,5
+a_10_1_ZH,a_10_1,ZH,llama_tikz,A triangle with sides of equal length.,5,5,5
+n_13_1_DE,n_13_1,DE,gpt_4o_python,A binary tree with a total of 7 nodes.,5,5,5
+n_13_1_ZH,n_13_1,ZH,gpt_o1_tikz,A binary tree with a total of 7 nodes.,4.5,5,5
+n_13_1_FA,n_13_1,FA,dalle,A binary tree with a total of 7 nodes.,1,1,1
+n_13_1_ZH,n_13_1,ZH,llama_python,A binary tree with a total of 7 nodes.,0,0,0
+n_13_1_ZH,n_13_1,ZH,gpt_o1_python,A binary tree with a total of 7 nodes.,5,5,5
+n_13_1_EN,n_13_1,EN,gpt_o1_tikz,A binary tree with a total of 7 nodes.,5,5,5
+n_13_1_DE,n_13_1,DE,dalle,A binary tree with a total of 7 nodes.,1,1,1
+n_13_1_DE,n_13_1,DE,gpt_4o_tikz,A binary tree with a total of 7 nodes.,4,5,4.5
+n_13_1_EN,n_13_1,EN,gpt_o1_python,A binary tree with a total of 7 nodes.,1,1,2
+n_13_1_FA,n_13_1,FA,gpt_o1_tikz,A binary tree with a total of 7 nodes.,5,5,5
+n_13_1_DE,n_13_1,DE,llama_python,A binary tree with a total of 7 nodes.,0,0,0
+n_13_1_ZH,n_13_1,ZH,gpt_4o_python,A binary tree with a total of 7 nodes.,5,5,5
+n_13_1_FA,n_13_1,FA,gpt_4o_python,A binary tree with a total of 7 nodes.,0,0,0
+n_13_1_FA,n_13_1,FA,gpt_o1_python,A binary tree with a total of 7 nodes.,0,0,0
+n_13_1_DE,n_13_1,DE,gpt_o1_tikz,A binary tree with a total of 7 nodes.,4,4,4
+n_13_1_FA,n_13_1,FA,gpt_4o_tikz,A binary tree with a total of 7 nodes.,4,5,4
+n_13_1_ZH,n_13_1,ZH,llama_tikz,A binary tree with a total of 7 nodes.,1.5,2.5,3
+n_13_1_DE,n_13_1,DE,llama_tikz,A binary tree with a total of 7 nodes.,1.5,2,2
+n_13_1_ZH,n_13_1,ZH,dalle,A binary tree with a total of 7 nodes.,1,1,1
+n_13_1_DE,n_13_1,DE,gpt_o1_python,A binary tree with a total of 7 nodes.,0,0,0
+n_13_1_FA,n_13_1,FA,llama_python,A binary tree with a total of 7 nodes.,1,1,2
+n_13_1_ZH,n_13_1,ZH,gpt_4o_tikz,A binary tree with a total of 7 nodes.,4,5,4
+n_13_1_FA,n_13_1,FA,llama_tikz,A binary tree with a total of 7 nodes.,1,1.5,1.5
+sa_3_4_FA,sa_3_4,FA,gpt_o1_python,"In a bar chart, a grey bar is to the right of a green bar, and the leftmost bar is the shortest in the chart.",3.5,2.5,3
+sa_3_4_ZH,sa_3_4,ZH,gpt_o1_python,"In a bar chart, a grey bar is to the right of a green bar, and the leftmost bar is the shortest in the chart.",3.5,2.5,3
+sa_3_4_FA,sa_3_4,FA,gpt_o1_tikz,"In a bar chart, a grey bar is to the right of a green bar, and the leftmost bar is the shortest in the chart.",0,0,0
+sa_3_4_FA,sa_3_4,FA,llama_tikz,"In a bar chart, a grey bar is to the right of a green bar, and the leftmost bar is the shortest in the chart.",1,1,3
+sa_3_4_EN,sa_3_4,EN,gpt_o1_tikz,"In a bar chart, a grey bar is to the right of a green bar, and the leftmost bar is the shortest in the chart.",5,5,5
+sa_3_4_DE,sa_3_4,DE,llama_python,"In a bar chart, a grey bar is to the right of a green bar, and the leftmost bar is the shortest in the chart.",0,0,0
+sa_3_4_FA,sa_3_4,FA,dalle,"In a bar chart, a grey bar is to the right of a green bar, and the leftmost bar is the shortest in the chart.",1.5,2,1.5
+sa_3_4_ZH,sa_3_4,ZH,gpt_4o_python,"In a bar chart, a grey bar is to the right of a green bar, and the leftmost bar is the shortest in the chart.",3,3,4
+sa_3_4_ZH,sa_3_4,ZH,gpt_4o_tikz,"In a bar chart, a grey bar is to the right of a green bar, and the leftmost bar is the shortest in the chart.",0,0,0
+sa_3_4_DE,sa_3_4,DE,gpt_4o_python,"In a bar chart, a grey bar is to the right of a green bar, and the leftmost bar is the shortest in the chart.",4.5,3.5,3.5
+sa_3_4_DE,sa_3_4,DE,gpt_4o_tikz,"In a bar chart, a grey bar is to the right of a green bar, and the leftmost bar is the shortest in the chart.",1.5,2,4
+sa_3_4_FA,sa_3_4,FA,llama_python,"In a bar chart, a grey bar is to the right of a green bar, and the leftmost bar is the shortest in the chart.",1.5,2,4
+sa_3_4_ZH,sa_3_4,ZH,llama_python,"In a bar chart, a grey bar is to the right of a green bar, and the leftmost bar is the shortest in the chart.",1.5,1.5,2
+sa_3_4_DE,sa_3_4,DE,gpt_o1_tikz,"In a bar chart, a grey bar is to the right of a green bar, and the leftmost bar is the shortest in the chart.",5,5,5
+sa_3_4_DE,sa_3_4,DE,gpt_o1_python,"In a bar chart, a grey bar is to the right of a green bar, and the leftmost bar is the shortest in the chart.",5,3.5,3.5
+sa_3_4_FA,sa_3_4,FA,gpt_4o_tikz,"In a bar chart, a grey bar is to the right of a green bar, and the leftmost bar is the shortest in the chart.",0,0,0
+sa_3_4_EN,sa_3_4,EN,gpt_o1_python,"In a bar chart, a grey bar is to the right of a green bar, and the leftmost bar is the shortest in the chart.",5,5,5
+sa_3_4_ZH,sa_3_4,ZH,llama_tikz,"In a bar chart, a grey bar is to the right of a green bar, and the leftmost bar is the shortest in the chart.",1,2,2.5
+sa_3_4_ZH,sa_3_4,ZH,dalle,"In a bar chart, a grey bar is to the right of a green bar, and the leftmost bar is the shortest in the chart.",2,2.5,2
+sa_3_4_FA,sa_3_4,FA,gpt_4o_python,"In a bar chart, a grey bar is to the right of a green bar, and the leftmost bar is the shortest in the chart.",5,3.5,3.5
+sa_3_4_DE,sa_3_4,DE,llama_tikz,"In a bar chart, a grey bar is to the right of a green bar, and the leftmost bar is the shortest in the chart.",0,0,0
+sa_3_4_DE,sa_3_4,DE,dalle,"In a bar chart, a grey bar is to the right of a green bar, and the leftmost bar is the shortest in the chart.",2,3.5,3
+sa_3_4_ZH,sa_3_4,ZH,gpt_o1_tikz,"In a bar chart, a grey bar is to the right of a green bar, and the leftmost bar is the shortest in the chart.",0,0,0
+n_10_2_EN,n_10_2,EN,gpt_o1_tikz,"A pentagon is divided into N parts using N-1 lines, where N > 2.",5,5,5
+n_10_2_ZH,n_10_2,ZH,llama_tikz,"A pentagon is divided into N parts using N-1 lines, where N > 2.",0,0,0
+n_10_2_DE,n_10_2,DE,gpt_o1_python,"A pentagon is divided into N parts using N-1 lines, where N > 2.",3.5,5,5
+n_10_2_EN,n_10_2,EN,gpt_o1_python,"A pentagon is divided into N parts using N-1 lines, where N > 2.",5,5,5
+n_10_2_FA,n_10_2,FA,gpt_o1_tikz,"A pentagon is divided into N parts using N-1 lines, where N > 2.",0,0,0
+n_10_2_FA,n_10_2,FA,gpt_4o_python,"A pentagon is divided into N parts using N-1 lines, where N > 2.",2,4.5,5
+n_10_2_ZH,n_10_2,ZH,gpt_o1_python,"A pentagon is divided into N parts using N-1 lines, where N > 2.",5,4.5,5
+n_10_2_DE,n_10_2,DE,gpt_4o_python,"A pentagon is divided into N parts using N-1 lines, where N > 2.",2,4,5
+n_10_2_DE,n_10_2,DE,llama_python,"A pentagon is divided into N parts using N-1 lines, where N > 2.",1,1,1.5
+n_10_2_ZH,n_10_2,ZH,gpt_4o_tikz,"A pentagon is divided into N parts using N-1 lines, where N > 2.",1.5,4,4.5
+n_10_2_FA,n_10_2,FA,llama_tikz,"A pentagon is divided into N parts using N-1 lines, where N > 2.",1,2,2
+n_10_2_DE,n_10_2,DE,llama_tikz,"A pentagon is divided into N parts using N-1 lines, where N > 2.",2.5,4.5,5
+n_10_2_FA,n_10_2,FA,gpt_4o_tikz,"A pentagon is divided into N parts using N-1 lines, where N > 2.",2.5,4.5,5
+n_10_2_ZH,n_10_2,ZH,gpt_o1_tikz,"A pentagon is divided into N parts using N-1 lines, where N > 2.",1.5,4,3.5
+n_10_2_FA,n_10_2,FA,dalle,"A pentagon is divided into N parts using N-1 lines, where N > 2.",1,1,1
+n_10_2_FA,n_10_2,FA,llama_python,"A pentagon is divided into N parts using N-1 lines, where N > 2.",1.5,2,1.5
+n_10_2_ZH,n_10_2,ZH,gpt_4o_python,"A pentagon is divided into N parts using N-1 lines, where N > 2.",2.5,4,5
+n_10_2_FA,n_10_2,FA,gpt_o1_python,"A pentagon is divided into N parts using N-1 lines, where N > 2.",5,5,5
+n_10_2_DE,n_10_2,DE,gpt_4o_tikz,"A pentagon is divided into N parts using N-1 lines, where N > 2.",2,3,4.5
+n_10_2_DE,n_10_2,DE,gpt_o1_tikz,"A pentagon is divided into N parts using N-1 lines, where N > 2.",2,3.5,5
+n_10_2_ZH,n_10_2,ZH,llama_python,"A pentagon is divided into N parts using N-1 lines, where N > 2.",1.5,1.5,1.5
+n_10_2_DE,n_10_2,DE,dalle,"A pentagon is divided into N parts using N-1 lines, where N > 2.",1,1,1
+n_10_2_ZH,n_10_2,ZH,dalle,"A pentagon is divided into N parts using N-1 lines, where N > 2.",1,1,1
+a_10_1_EN,a_10_1,EN,Qwen2.5,A triangle with sides of equal length.,5,4,4.5
+a_10_1_DE,a_10_1,DE,Qwen2.5,A triangle with sides of equal length.,3,2,3
+a_10_1_FA,a_10_1,FA,Qwen2.5,A triangle with sides of equal length.,2,2,3.5
+a_10_1_ZH,a_10_1,ZH,Qwen2.5,A triangle with sides of equal length.,2,2,3.5
+a_9_3_EN,a_9_3,EN,Qwen2.5,A quadrilateral with rounded corners.,1.5,2,4
+a_9_3_DE,a_9_3,DE,Qwen2.5,A quadrilateral with rounded corners.,5,3.5,5
+a_9_3_FA,a_9_3,FA,Qwen2.5,A quadrilateral with rounded corners.,2.5,2.5,4
+a_9_3_ZH,a_9_3,ZH,Qwen2.5,A quadrilateral with rounded corners.,2,2,1.5
+n_10_2_EN,n_10_2,EN,Qwen2.5,"A pentagon is divided into N parts using N-1 lines, where N > 2.",2.5,2.5,3
+n_10_2_DE,n_10_2,DE,Qwen2.5,"A pentagon is divided into N parts using N-1 lines, where N > 2.",2,2,3
+n_10_2_FA,n_10_2,FA,Qwen2.5,"A pentagon is divided into N parts using N-1 lines, where N > 2.",1.5,1,2.5
+n_10_2_ZH,n_10_2,ZH,Qwen2.5,"A pentagon is divided into N parts using N-1 lines, where N > 2.",1,1,4
+n_13_1_EN,n_13_1,EN,Qwen2.5,A binary tree with a total of 7 nodes.,1.5,1.5,4
+n_13_1_DE,n_13_1,DE,Qwen2.5,A binary tree with a total of 7 nodes.,1,1.5,4.5
+n_13_1_FA,n_13_1,FA,Qwen2.5,A binary tree with a total of 7 nodes.,1,1.5,4
+n_13_1_ZH,n_13_1,ZH,Qwen2.5,A binary tree with a total of 7 nodes.,1.5,1.5,4
+n_15_3_EN,n_15_3,EN,Qwen2.5,"A bar chart shows the number of graduates in different subjects within the community. 1,800 studied humanities, 4,500 studied science, and 5,520 studied engineering. The values are marked at the top of each bar.",3.5,3.5,5
+n_15_3_DE,n_15_3,DE,Qwen2.5,"A bar chart shows the number of graduates in different subjects within the community. 1,800 studied humanities, 4,500 studied science, and 5,520 studied engineering. The values are marked at the top of each bar.",2,2.5,4
+n_15_3_FA,n_15_3,FA,Qwen2.5,"A bar chart shows the number of graduates in different subjects within the community. 1,800 studied humanities, 4,500 studied science, and 5,520 studied engineering. The values are marked at the top of each bar.",2.5,3.5,4.5
+n_15_3_ZH,n_15_3,ZH,Qwen2.5,"A bar chart shows the number of graduates in different subjects within the community. 1,800 studied humanities, 4,500 studied science, and 5,520 studied engineering. The values are marked at the top of each bar.",2,2,4.5
+s_11_1_EN,s_11_1,EN,Qwen2.5,Many circles are embedded within each other without intersection.,3,3.5,4.5
+s_11_1_DE,s_11_1,DE,Qwen2.5,Many circles are embedded within each other without intersection.,2,3.5,3
+s_11_1_FA,s_11_1,FA,Qwen2.5,Many circles are embedded within each other without intersection.,2.5,2,3.5
+s_11_1_ZH,s_11_1,ZH,Qwen2.5,Many circles are embedded within each other without intersection.,1.5,2,3.5
+s_12_2_EN,s_12_2,EN,Qwen2.5,The tennis ball moves along a parabola.,1.5,1.5,3.5
+s_12_2_DE,s_12_2,DE,Qwen2.5,The tennis ball moves along a parabola.,2,1.5,2
+s_12_2_FA,s_12_2,FA,Qwen2.5,The tennis ball moves along a parabola.,3,2,4
+s_12_2_ZH,s_12_2,ZH,Qwen2.5,The tennis ball moves along a parabola.,1.5,1.5,3.5
+s_3_3_EN,s_3_3,EN,Qwen2.5,There is a triangle in the upper left corner of a square.,1.5,2.5,4.5
+s_3_3_DE,s_3_3,DE,Qwen2.5,There is a triangle in the upper left corner of a square.,2,2.5,4
+s_3_3_FA,s_3_3,FA,Qwen2.5,There is a triangle in the upper left corner of a square.,2.5,3.5,4.5
+s_3_3_ZH,s_3_3,ZH,Qwen2.5,There is a triangle in the upper left corner of a square.,4,3,4.5
+sa_2_1_EN,sa_2_1,EN,Qwen2.5,"A big circle is inside a circle, and a small circle is outside of the circle.",5,4,5
+sa_2_1_DE,sa_2_1,DE,Qwen2.5,"A big circle is inside a circle, and a small circle is outside of the circle.",3,2.5,4
+sa_2_1_FA,sa_2_1,FA,Qwen2.5,"A big circle is inside a circle, and a small circle is outside of the circle.",4,2.5,4.5
+sa_2_1_ZH,sa_2_1,ZH,Qwen2.5,"A big circle is inside a circle, and a small circle is outside of the circle.",1.5,2,4
+sa_3_4_EN,sa_3_4,EN,Qwen2.5,"In a bar chart, a grey bar is to the right of a green bar, and the leftmost bar is the shortest in the chart.",4.5,3.5,4
+sa_3_4_DE,sa_3_4,DE,Qwen2.5,"In a bar chart, a grey bar is to the right of a green bar, and the leftmost bar is the shortest in the chart.",2.5,3.5,4.5
+sa_3_4_FA,sa_3_4,FA,Qwen2.5,"In a bar chart, a grey bar is to the right of a green bar, and the leftmost bar is the shortest in the chart.",2,3,4
+sa_3_4_ZH,sa_3_4,ZH,Qwen2.5,"In a bar chart, a grey bar is to the right of a green bar, and the leftmost bar is the shortest in the chart.",2.5,2.5,3.5
+sa_8_4_EN,sa_8_4,EN,Qwen2.5,The intersection of the pentagon and the trapezoid is filled with blue.,2,2.5,2.5
+sa_8_4_DE,sa_8_4,DE,Qwen2.5,The intersection of the pentagon and the trapezoid is filled with blue.,1.5,1.5,3.5
+sa_8_4_FA,sa_8_4,FA,Qwen2.5,The intersection of the pentagon and the trapezoid is filled with blue.,1.5,1.5,4
+sa_8_4_ZH,sa_8_4,ZH,Qwen2.5,The intersection of the pentagon and the trapezoid is filled with blue.,1,1,3.5
+na_13_3_EN,na_13_3,EN,Qwen2.5,"There are 8 monochrome hexagonal prism in a row and they are filled with blue colors, with colors gradually changing from lighter to darker.",1,1,3.5
+na_13_3_DE,na_13_3,DE,Qwen2.5,"There are 8 monochrome hexagonal prism in a row and they are filled with blue colors, with colors gradually changing from lighter to darker.",1.5,2.5,2.5
+na_13_3_FA,na_13_3,FA,Qwen2.5,"There are 8 monochrome hexagonal prism in a row and they are filled with blue colors, with colors gradually changing from lighter to darker.",1.5,1.5,2.5
+na_13_3_ZH,na_13_3,ZH,Qwen2.5,"There are 8 monochrome hexagonal prism in a row and they are filled with blue colors, with colors gradually changing from lighter to darker.",1,1,2
+na_14_1_EN,na_14_1,EN,Qwen2.5,"There is a pie chart representing the population proportion of 5 age groups, from 0 to 100 years old. Each group has the same or a similar range, but their population percentages differ. The age group and their proportion are marked in each pie slice.",1,1,2
+na_14_1_DE,na_14_1,DE,Qwen2.5,"There is a pie chart representing the population proportion of 5 age groups, from 0 to 100 years old. Each group has the same or a similar range, but their population percentages differ. The age group and their proportion are marked in each pie slice.",2.5,3,4.5
+na_14_1_FA,na_14_1,FA,Qwen2.5,"There is a pie chart representing the population proportion of 5 age groups, from 0 to 100 years old. Each group has the same or a similar range, but their population percentages differ. The age group and their proportion are marked in each pie slice.",4,4.5,5
+na_14_1_ZH,na_14_1,ZH,Qwen2.5,"There is a pie chart representing the population proportion of 5 age groups, from 0 to 100 years old. Each group has the same or a similar range, but their population percentages differ. The age group and their proportion are marked in each pie slice.",2.5,3,4
+na_8_1_EN,na_8_1,EN,Qwen2.5,There is a polygon with 3 sides. Each side has a different color.,3,3,1.5
+na_8_1_DE,na_8_1,DE,Qwen2.5,There is a polygon with 3 sides. Each side has a different color.,1.5,1.5,2.5
+na_8_1_FA,na_8_1,FA,Qwen2.5,There is a polygon with 3 sides. Each side has a different color.,2.5,2.5,3.5
+na_8_1_ZH,na_8_1,ZH,Qwen2.5,There is a polygon with 3 sides. Each side has a different color.,3,3,3.5
+ns_13_1_EN,ns_13_1,EN,Qwen2.5,There are 5 squares on the left side of the canvas and 3 circles on the right side.,4,4,5
+ns_13_1_DE,ns_13_1,DE,Qwen2.5,There are 5 squares on the left side of the canvas and 3 circles on the right side.,1,1,2.5
+ns_13_1_FA,ns_13_1,FA,Qwen2.5,There are 5 squares on the left side of the canvas and 3 circles on the right side.,1,1.5,3
+ns_13_1_ZH,ns_13_1,ZH,Qwen2.5,There are 5 squares on the left side of the canvas and 3 circles on the right side.,2,3.5,3.5
+ns_2_3_EN,ns_2_3,EN,Qwen2.5,5 cubes in the lower left corner of the cuboid.,3,3.5,3
+ns_2_3_DE,ns_2_3,DE,Qwen2.5,5 cubes in the lower left corner of the cuboid.,2,3,3.5
+ns_2_3_FA,ns_2_3,FA,Qwen2.5,5 cubes in the lower left corner of the cuboid.,3.5,4,4
+ns_2_3_ZH,ns_2_3,ZH,Qwen2.5,5 cubes in the lower left corner of the cuboid.,2,2.5,2.5
+ns_4_4_EN,ns_4_4,EN,Qwen2.5,There is a sphere in the middle of 2 cubes.,5,5,2.5
+ns_4_4_DE,ns_4_4,DE,Qwen2.5,There is a sphere in the middle of 2 cubes.,2,2,2
+ns_4_4_FA,ns_4_4,FA,Qwen2.5,There is a sphere in the middle of 2 cubes.,1,1,2
+ns_4_4_ZH,ns_4_4,ZH,Qwen2.5,There is a sphere in the middle of 2 cubes.,1.5,1.5,1
+nsa_12_2_EN,nsa_12_2,EN,Qwen2.5,"The box on the left contains 5 white balls, and the box on the right contains 4 green balls and 5 grey balls.",4,4.5,3
+nsa_12_2_DE,nsa_12_2,DE,Qwen2.5,"The box on the left contains 5 white balls, and the box on the right contains 4 green balls and 5 grey balls.",2,2.5,3
+nsa_12_2_FA,nsa_12_2,FA,Qwen2.5,"The box on the left contains 5 white balls, and the box on the right contains 4 green balls and 5 grey balls.",2,3,3
+nsa_12_2_ZH,nsa_12_2,ZH,Qwen2.5,"The box on the left contains 5 white balls, and the box on the right contains 4 green balls and 5 grey balls.",3.5,4,3
+nsa_3_1_EN,nsa_3_1,EN,Qwen2.5,"Two parallel line segments are inside a circle, with all of their endpoints on the circle. Mark the endpoints with black dots.",5,4,5
+nsa_3_1_DE,nsa_3_1,DE,Qwen2.5,"Two parallel line segments are inside a circle, with all of their endpoints on the circle. Mark the endpoints with black dots.",2.5,2.5,3.5
+nsa_3_1_FA,nsa_3_1,FA,Qwen2.5,"Two parallel line segments are inside a circle, with all of their endpoints on the circle. Mark the endpoints with black dots.",2.5,2.5,3.5
+nsa_3_1_ZH,nsa_3_1,ZH,Qwen2.5,"Two parallel line segments are inside a circle, with all of their endpoints on the circle. Mark the endpoints with black dots.",2.5,2.5,2.5
+nsa_8_2_EN,nsa_8_2,EN,Qwen2.5,A bar chart with 4 bars and mark the leftmost bar in brown.,4.5,4.5,4
+nsa_8_2_DE,nsa_8_2,DE,Qwen2.5,A bar chart with 4 bars and mark the leftmost bar in brown.,5,5,4
+nsa_8_2_FA,nsa_8_2,FA,Qwen2.5,A bar chart with 4 bars and mark the leftmost bar in brown.,5,5,4
+nsa_8_2_ZH,nsa_8_2,ZH,Qwen2.5,A bar chart with 4 bars and mark the leftmost bar in brown.,2.5,3,3.5
