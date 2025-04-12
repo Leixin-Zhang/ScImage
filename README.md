@@ -1,5 +1,18 @@
 # ScImage: How good are multimodal large language models at scientific text-to-image generation?
+
 Leixin Zhang, Steffen Eger, Yinjie Cheng, Weihe Zhai, Jonas Belouadi, Fahimeh Moafian, Zhixue Zhao
+
+<div align="center",style="font-family: charter;">
+    <a href="[https://joanrod.github.io](https://scholar.google.com/citations?user=dTRy2gUAAAAJ&hl=en
+)" target="_blank">Leixin Zhang</a>,
+    <a href="[https://abhaypuri.github.io/portfolio/](https://scholar.google.com/citations?user=TnuqAW0AAAAJ&hl=en)" target="_blank">Steffen Eger</a>,
+    <a href="https://shubhamagarwal92.github.io/" target="_blank">Shubham Agarwal</a>,
+    <a href="https://scholar.google.ca/citations?user=8vRS7F0AAAAJ&hl=en" target="_blank">Issam H. Laradji</a>,
+    <a href="https://scholar.google.es/citations?user=IwBx73wAAAAJ&hl=ca" target="_blank">Pau Rodriguez</a>,
+    <a href="https://scholar.google.es/citations?user=1jHvtfsAAAAJ&hl=ca" target="_blank">David Vazquez</a>,
+    <a href="https://scholar.google.com/citations?user=1ScWJOoAAAAJ&hl=en" target="_blank">Chris Pal</a>,
+    <a href="https://scholar.google.com/citations?user=aVfyPAoAAAAJ&hl=en" target="_blank">Marco Pedersoli</a>
+</div>
 🔥 News **ScImage Accepted at ICLR 2025**
 
 ## 🚀 Introduction: 
