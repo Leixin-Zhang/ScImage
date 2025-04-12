@@ -25,7 +25,7 @@ ScImage——a **benchmark** designed to evaluate the multimodal capabilities of
 - Two modes of output generation: **code-based outputs (Python, TikZ)** and direct **raster image generation**.
 - Multilingual: we examine **four different input languages**: English, German, Farsi, and Chinese.
 
-## 📝 Prompt & Template:
+## 📝 Template & Generation Query:
 - [Template](template.csv): 101 templates with replacable features within `{feature}`.
 - [English Prompts](prompt.csv): 404 English prompts for model evaluation.
 - [Multilingual Prompts](multilingual_prompt.csv): 20 prompts (covering all understanding dimensions) are translated to other three languages: German, Farsi, and Chinese.
