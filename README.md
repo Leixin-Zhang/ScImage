@@ -40,11 +40,11 @@ ScImage——a **benchmark** designed to evaluate the multimodal capabilities of
   
 ## 🧩 Generation Output
 
-**Code Output: **
+**Code Output:**
 - [Code output (English)](https://drive.google.com/drive/folders/17QPqBBCGMW1gL4t63T_3h-G02NrgsyQS?usp=sharing)
 - [Code output (multilingual)](https://drive.google.com/drive/folders/1vYaRGRd6XvcT2pjZYQ2w76-b57arPGVZ?usp=sharing)
 
-**Image Output: **
+**Image Output:**
 - [Image output (English)](https://drive.google.com/drive/folders/1Ruj0XihQylbpORBDLWrRAC8OIb0zLORY?usp=sharing)
 - [Image output (multilingual)](https://drive.google.com/drive/folders/1Ke2oL2nmXwpSSwZfh_yifyAof_XYlIGo?usp=sharing)
 
