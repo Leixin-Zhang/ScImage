@@ -26,11 +26,10 @@ ScImage——a **benchmark** designed to evaluate the multimodal capabilities of
 - Multilingual: we examine **four different input languages**: English, German, Farsi, and Chinese.
 
 ## 📝 Prompt & Template:
-
-- English Prompts: [Github File](prompt.csv)
-- Multilingual Prompts: [Github File Link](multilingual_prompt.csv)
-- 
-https://github.com/Leixin-Zhang/ScImage/blob/main/prompt.csv
+- [Template](template.csv): 101 templates with replacable features within {...}
+- [English Prompts](prompt.csv): 404 English prompts for model evaluation.
+- [Multilingual Prompts](multilingual_prompt.csv): 20 prompts from 404 (covering all understanding dimensions) are translated to other three languages: German, Farsi, and Chinese.
+  
 
 code generation from English prompts:https://drive.google.com/drive/folders/17QPqBBCGMW1gL4t63T_3h-G02NrgsyQS?usp=sharing
 
