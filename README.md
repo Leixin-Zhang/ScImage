@@ -11,7 +11,8 @@
 </div>
 
 
-
+![ScImage Badge](https://img.shields.io/badge/%F0%9F%A4%97%20_prompt:-ScImage-ffc107?color=ffc107&logoColor=white
+)
   
 #### 🔥 News: **ScImage Accepted at ICLR 2025**
 <a href="https://huggingface.co/datasets/casszhao/ScImage" target="_blank">
