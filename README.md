@@ -53,7 +53,7 @@ ScImage——a **benchmark** designed to evaluate the multimodal capabilities of
 
 There are **2828** human evaluation for [English (csv file)](Human_Evaluation_Scores/English_evaluation_score.csv) and **541** human evaluation for [multilingual (csv file)](Human_Evaluation_Scores/multilingual_evaluation_score.csv) generation, in total **3369** human evaluated items. The overall statistics for LLMs performance:
 
-**LLM generation performance (English)**
+**LLM generation performance (English):**
 
 | Model             | Correctness | Relevance | Scientific Style |
 |------------------|-------------|-----------|------------------|
@@ -67,7 +67,7 @@ There are **2828** human evaluation for [English (csv file)](Human_Evaluation_Sc
 
 All images along with their evaluation scores are available in the [google sheet file](https://docs.google.com/spreadsheets/d/1e-5_BbLZQ6h4RrJXwYYoh-70_XJuiaK8/edit?usp=sharing&ouid=102282799414163318354&rtpof=true&sd=true): 
 
- **LLM generation performance (Multilingual)**
+ **LLM generation performance (Multilingual):**
 
 
 
@@ -95,7 +95,7 @@ All images along with their evaluation scores are available in the [google sheet
   <tr><td>DALL-E</td><td>1.98</td><td>2.15</td><td>1.83</td><td>1.93</td><td>1.88</td><td>2.03</td><td>2.03</td><td>2.00</td><td>1.40</td><td>1.58</td><td>1.53</td><td>1.50</td></tr>
 </table>
 
-### 176 generated images score 5 (full mark) at all three evaluation dimensions and can be used as [reference images](correct_image_reference.xlsx) in future research.
+**176 generated images score 5 (full mark) at all three evaluation dimensions and can be used as [reference images](correct_image_reference.xlsx) in future research.**
 
 
 
