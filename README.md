@@ -1,4 +1,3 @@
-#### 🔥 News: **ScImage Accepted at ICLR 2025** <a href="https://huggingface.co/datasets/casszhao/ScImage" target="_blank"> <img alt="Benchmark: ScImage" src="https://img.shields.io/badge/%F0%9F%A4%97%20_Benchmark-ScImage-ffc107?color=ffc107&logoColor=white" height="15"/> </a>
 
 # ScImage: How good are multimodal large language models at scientific text-to-image generation?
 
@@ -15,7 +14,8 @@
 </div>
 
 
-  
+#### 🔥 News: **ScImage Accepted at ICLR 2025** <a href="https://huggingface.co/datasets/casszhao/ScImage" target="_blank"> <img alt="Benchmark: ScImage" src="https://img.shields.io/badge/%F0%9F%A4%97%20_Benchmark-ScImage-ffc107?color=ffc107&logoColor=white" height="15"/> </a>
+
 
     
 ## 🚀 Introduction: 
