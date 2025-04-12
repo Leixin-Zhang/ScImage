@@ -1,16 +1,16 @@
 # ScImage Benchmark: text to scientific image generation
 
-code generation from English prompts: [[https://drive.google.com/drive/folders/1qjSEKADj2fERIYhWKCa1z7LMThYiP9Qy?usp=sharing
-image generation: ](https://drive.google.com/drive/folders/17QPqBBCGMW1gL4t63T_3h-G02NrgsyQS?usp=sharing)](https://drive.google.com/drive/folders/17QPqBBCGMW1gL4t63T_3h-G02NrgsyQS?usp=sharing)
+code generation from English prompts:https://drive.google.com/drive/folders/17QPqBBCGMW1gL4t63T_3h-G02NrgsyQS?usp=sharing
+
 image generation: https://drive.google.com/drive/folders/1Ruj0XihQylbpORBDLWrRAC8OIb0zLORY?usp=sharing
+
 human evaluation scores: 
-all images and human evaluation scores for English-prompt generation: https://docs.google.com/spreadsheets/d/1e-5_BbLZQ6h4RrJXwYYoh-70_XJuiaK8/edit?usp=sharing&ouid=102282799414163318354&rtpof=true&sd=true
 
 Multilingual: 
 
 code generation: https://drive.google.com/drive/folders/1vYaRGRd6XvcT2pjZYQ2w76-b57arPGVZ?usp=sharing
-image generation:[https://drive.google.com/drive/folders/1Ke2oL2nmXwpSSwZfh_yifyAof_XYlIGo?usp=sharing 
-human evaluation scores:](https://drive.google.com/drive/folders/1Ke2oL2nmXwpSSwZfh_yifyAof_XYlIGo?usp=sharing)
+
+image generation:https://drive.google.com/drive/folders/1Ke2oL2nmXwpSSwZfh_yifyAof_XYlIGo?usp=sharing
 
 <p align="left">
   <img src="Decorate_icons/star_icon.png" alt="star_logo_mini" width= "20" height="20"> 
