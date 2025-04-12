@@ -65,7 +65,7 @@ There are **2828** human evaluation for [English (csv file)](Human_Evaluation_Sc
 | Stable Diffusion  | 2.19        | 2.09      | 1.96             |
 | DALL·E            | 2.16        | 2.00      | 1.55             |
 
-All images along with their evaluation scores is available with an [excel file](https://docs.google.com/spreadsheets/d/1e-5_BbLZQ6h4RrJXwYYoh-70_XJuiaK8/edit?usp=sharing&ouid=102282799414163318354&rtpof=true&sd=true): 
+All images along with their evaluation scores is available with an [google sheet file](https://docs.google.com/spreadsheets/d/1e-5_BbLZQ6h4RrJXwYYoh-70_XJuiaK8/edit?usp=sharing&ouid=102282799414163318354&rtpof=true&sd=true): 
 
  **LLM generation performance (Multilingual)**
 
