@@ -25,7 +25,11 @@ ScImage——a **benchmark** designed to evaluate the multimodal capabilities of
 - Two modes of output generation: **code-based outputs (Python, TikZ)** and direct **raster image generation**.
 - Multilingual: we examine **four different input languages**: English, German, Farsi, and Chinese.
 
-[Check out my project](https://github.com/your-username/your-repo)
+## 📝 Prompt & Template:
+
+[English Prompt](prompt.csv)
+[Multilingual Prompt](multilingual_prompt.csv)
+
 code generation from English prompts:https://drive.google.com/drive/folders/17QPqBBCGMW1gL4t63T_3h-G02NrgsyQS?usp=sharing
 
 image generation: https://drive.google.com/drive/folders/1Ruj0XihQylbpORBDLWrRAC8OIb0zLORY?usp=sharing
@@ -38,9 +42,6 @@ code generation: https://drive.google.com/drive/folders/1vYaRGRd6XvcT2pjZYQ2w76-
 
 image generation:https://drive.google.com/drive/folders/1Ke2oL2nmXwpSSwZfh_yifyAof_XYlIGo?usp=sharing
 
-<p align="left">
-  <img src="Decorate_icons/star_icon.png" alt="star_logo_mini" width= "20" height="20"> 
-  <span style="font-size: 36px;">How To Use StableDiffusion3 To Generate Images</span>
-</p>
+
 
 
