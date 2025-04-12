@@ -51,9 +51,7 @@ Image Output:
 
 ### Human evaluation results: 
 
-There are 2828 human evaluation for English and 541 human evaluation for multilingual generation, in total 3369 human evaluated items.
-
-The statistics for LLMs performance:
+There are 2828 human evaluation for [English](Human_Evaluation_Scores/English_evaluation_score.csv) and 541 human evaluation for [multilingual](multilingual_evaluation_score.csv) generation, in total 3369 human evaluated items. The overall statistics for LLMs performance:
 
 - LLM generation performance (English)
 
