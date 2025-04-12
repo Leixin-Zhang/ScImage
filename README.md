@@ -51,9 +51,9 @@ Image Output:
 
 ### Human evaluation results: 
 
-There are 2828 human evaluation for [English](Human_Evaluation_Scores/English_evaluation_score.csv) and 541 human evaluation for [multilingual](multilingual_evaluation_score.csv) generation, in total 3369 human evaluated items. The overall statistics for LLMs performance:
+There are **2828** human evaluation for [English](Human_Evaluation_Scores/English_evaluation_score.csv) and **541** human evaluation for [multilingual](Human_Evaluation_Scores/multilingual_evaluation_score.csv) generation, in total **3369** human evaluated items. The overall statistics for LLMs performance:
 
-- LLM generation performance (English)
+- **LLM generation performance (English)**
 
 | Model             | Correctness | Relevance | Scientific Style |
 |------------------|-------------|-----------|------------------|
@@ -65,7 +65,7 @@ There are 2828 human evaluation for [English](Human_Evaluation_Scores/English_ev
 | Stable Diffusion  | 2.19        | 2.09      | 1.96             |
 | DALL·E            | 2.16        | 2.00      | 1.55             |
 
-- LLM generation performance (Multilingual)
+- **LLM generation performance (Multilingual)**
 
 
 
