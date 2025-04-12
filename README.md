@@ -5,8 +5,13 @@ Leixin Zhang, Steffen Eger, Yinjie Cheng, Weihe Zhai, Jonas Belouadi, Fahimeh Mo
 <div align="center",style="font-family: charter;">
     <a href="https://scholar.google.com/citations?user=dTRy2gUAAAAJ&hl=en" target="_blank">Leixin Zhang</a>,
     <a href="https://scholar.google.com/citations?user=TnuqAW0AAAAJ&hl=en" target="_blank">Steffen Eger</a>,
-   
+    <a href="https://openreview.net/profile?id=~Yinjie_Cheng1" target="_blank">Yinjie Cheng</a>,
+    <a href="https://scholar.google.com/citations?user=0BU245kAAAAJ&hl=en" target="_blank">Weihe Zhai</a>,
+    <a href="https://scholar.google.com/citations?user=ut5IWKwAAAAJ&hl=en" target="_blank">Jonas Belouadi</a>,
+    <a href="https://scholar.google.com/citations?user=UxfiZA0AAAAJ&hl=en" target="_blank">Fahimeh Moafian</a>,
+    <a href="https://scholar.google.com/citations?user=bwiMxxsAAAAJ&hl=en" target="_blank">Zhixue Zhao</a>
 </div>
+
 🔥 News **ScImage Accepted at ICLR 2025**
 
 ## 🚀 Introduction: 
