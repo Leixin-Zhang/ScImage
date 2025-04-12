@@ -28,8 +28,13 @@ ScImage——a **benchmark** designed to evaluate the multimodal capabilities of
 ## 📝 Prompt & Template:
 - [Template](template.csv): 101 templates with replacable features within {...}
 - [English Prompts](prompt.csv): 404 English prompts for model evaluation.
-- [Multilingual Prompts](multilingual_prompt.csv): 20 prompts from 404 (covering all understanding dimensions) are translated to other three languages: German, Farsi, and Chinese.
-  
+- [Multilingual Prompts](multilingual_prompt.csv): 20 prompts (covering all understanding dimensions) are translated to other three languages: German, Farsi, and Chinese.
+
+<div style="font-family: charter;">
+Generation Mode:
+    - Text-Code-Image:
+    - Text-Image:
+</div>
 
 code generation from English prompts:https://drive.google.com/drive/folders/17QPqBBCGMW1gL4t63T_3h-G02NrgsyQS?usp=sharing
 
