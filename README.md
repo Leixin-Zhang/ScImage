@@ -30,15 +30,14 @@ ScImage——a **benchmark** designed to evaluate the multimodal capabilities of
 - [English Prompts](prompt.csv): 404 English prompts for model evaluation.
 - [Multilingual Prompts](multilingual_prompt.csv): 20 prompts (covering all understanding dimensions) are translated to other three languages: German, Farsi, and Chinese.
 
-<div style="font-family: charter;">
-Generation Mode:
-</div>
+    
+**Generation Mode:**
 
 - Text-Code-Image:
-    - python
-    - tikz
-- Text-Image:
-
+    - python: Please generate a scientific figure according to the following requirements: `{generation query}`. Your output should be in Python code. Do not include any text other than the Python code.
+    - tikz: Please generate a scientific figure according to the following requirements: `{generation query}`. Your output should be in Tikz code. Do not include any text other than the Tikz code.
+- Text-Image: Please generate a scientific figure according to the following requirements: `{generation query}`.
+  
 
   
 code generation from English prompts:https://drive.google.com/drive/folders/17QPqBBCGMW1gL4t63T_3h-G02NrgsyQS?usp=sharing
