@@ -1,5 +1,8 @@
 # ScImage: How good are multimodal large language models at scientific text-to-image generation?
 
+#### 🔥 News: **ScImage Accepted at ICLR 2025** <a href="https://huggingface.co/datasets/casszhao/ScImage" target="_blank"> <img alt="Benchmark: ScImage" src="https://img.shields.io/badge/%F0%9F%A4%97%20_Benchmark-ScImage-ffc107?color=ffc107&logoColor=white" height="15"/> </a>
+
+
 <div align="center",style="font-family: charter;">
     <a href="https://scholar.google.com/citations?user=dTRy2gUAAAAJ&hl=en" target="_blank">Leixin Zhang</a>,
     <a href="https://scholar.google.com/citations?user=TnuqAW0AAAAJ&hl=en" target="_blank">Steffen Eger</a>,
@@ -12,7 +15,7 @@
 
 
   
-#### 🔥 News: **ScImage Accepted at ICLR 2025** <a href="https://huggingface.co/datasets/casszhao/ScImage" target="_blank"> <img alt="Benchmark: ScImage" src="https://img.shields.io/badge/%F0%9F%A4%97%20_Benchmark-ScImage-ffc107?color=ffc107&logoColor=white" /> </a>
+
     
 ## 🚀 Introduction: 
 ScImage——a **benchmark** designed to evaluate the multimodal capabilities of LLMs in **scientific image generation** from textual descriptions. 
