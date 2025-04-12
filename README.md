@@ -32,10 +32,11 @@ ScImage——a **benchmark** designed to evaluate the multimodal capabilities of
 
 <div style="font-family: charter;">
 Generation Mode:
-    - Text-Code-Image:
-    - Text-Image:
 </div>
-
+- Text-Code-Image:
+    - python
+    - tikz
+- Text-Image:
 code generation from English prompts:https://drive.google.com/drive/folders/17QPqBBCGMW1gL4t63T_3h-G02NrgsyQS?usp=sharing
 
 image generation: https://drive.google.com/drive/folders/1Ruj0XihQylbpORBDLWrRAC8OIb0zLORY?usp=sharing
