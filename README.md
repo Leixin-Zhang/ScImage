@@ -11,9 +11,9 @@
 </div>
 
 
-
-
-🔥 News **ScImage Accepted at ICLR 2025**
+<img alt="ScImage: Prompt" src="https://huggingface.co/datasets/casszhao/ScImage" height="25" />
+  
+#### 🔥 News **ScImage Accepted at ICLR 2025**
 
 ## 🚀 Introduction: 
 ScImage——a **benchmark** designed to evaluate the multimodal capabilities of LLMs in **scientific image generation** from textual descriptions. 
