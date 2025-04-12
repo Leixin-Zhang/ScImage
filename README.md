@@ -1,7 +1,5 @@
 # ScImage: How good are multimodal large language models at scientific text-to-image generation?
 
-Leixin Zhang, Steffen Eger, Yinjie Cheng, Weihe Zhai, Jonas Belouadi, Fahimeh Moafian, Zhixue Zhao
-
 <div align="center",style="font-family: charter;">
     <a href="https://scholar.google.com/citations?user=dTRy2gUAAAAJ&hl=en" target="_blank">Leixin Zhang</a>,
     <a href="https://scholar.google.com/citations?user=TnuqAW0AAAAJ&hl=en" target="_blank">Steffen Eger</a>,
@@ -11,6 +9,9 @@ Leixin Zhang, Steffen Eger, Yinjie Cheng, Weihe Zhai, Jonas Belouadi, Fahimeh Mo
     <a href="https://scholar.google.com/citations?user=UxfiZA0AAAAJ&hl=en" target="_blank">Fahimeh Moafian</a>,
     <a href="https://scholar.google.com/citations?user=bwiMxxsAAAAJ&hl=en" target="_blank">Zhixue Zhao</a>
 </div>
+
+
+
 
 🔥 News **ScImage Accepted at ICLR 2025**
 
