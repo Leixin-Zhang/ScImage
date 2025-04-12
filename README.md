@@ -27,8 +27,8 @@ ScImage——a **benchmark** designed to evaluate the multimodal capabilities of
 
 ## 📝 Prompt & Template:
 
-[English Prompt](prompt.csv)
-[Multilingual Prompt](multilingual_prompt.csv)
+- English Prompts: [Github File](prompt.csv)
+- Multilingual Prompts: [Github File Link](multilingual_prompt.csv)
 
 code generation from English prompts:https://drive.google.com/drive/folders/17QPqBBCGMW1gL4t63T_3h-G02NrgsyQS?usp=sharing
 
