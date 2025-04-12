@@ -49,7 +49,11 @@ Image Output:
 - [Image output (multilingual)](https://drive.google.com/drive/folders/1Ke2oL2nmXwpSSwZfh_yifyAof_XYlIGo?usp=sharing)
 
 
-### Human evaluation scores: 
+### Human evaluation results: 
+
+There are 2828 human evaluation for English and 541 human evaluation for multilingual generation, in total 3369 human evaluated items.
+
+The statistics for LLMs performance:
 
 - LLM generation performance (English)
 
@@ -65,45 +69,35 @@ Image Output:
 
 - LLM generation performance (Multilingual)
 
-| Language           |  Correctness  | -  | -  | -  | Relevance | - | - | - | Scientific Style |   |  |  |
 
 
 <table>
   <tr>
-    <th rowspan="2">Language</th>
+    <th rowspan="1">Model</th>
     <th colspan="4">Correctness</th>
     <th colspan="4">Relevance</th>
     <th colspan="4">Scientific Style</th>
   </tr>
   <tr>
+    <th>Language</th>
     <th>EN</th><th>DE</th><th>ZH</th><th>FA</th>
     <th>EN</th><th>DE</th><th>ZH</th><th>FA</th>
     <th>EN</th><th>DE</th><th>ZH</th><th>FA</th>
   </tr>
-  <tr>
-    <td>Llama_tikz</td>
-    <td>1.88</td><td>1.48</td><td>1.50</td><td>1.23</td>
-    <td>2.18</td><td>1.78</td><td>2.10</td><td>1.68</td>
-    <td>2.78</td><td>2.23</td><td>2.80</td><td>2.90</td>
   </tr>
-  <!-- Add more rows as needed -->
+  <tr><td>Llama_tikz</td><td>1.88</td><td>1.48</td><td>1.50</td><td>1.23</td><td>2.18</td><td>1.78</td><td>2.10</td><td>1.68</td><td>2.78</td><td>2.23</td><td>2.80</td><td>2.90</td></tr>
+  <tr><td>GPT-4o_tikz</td><td>3.85</td><td>4.03</td><td>3.98</td><td>3.68</td><td>4.03</td><td><b>4.23</b></td><td><b>4.60</b></td><td>3.98</td><td>4.10</td><td><b>4.43</b></td><td>4.40</td><td>3.98</td></tr>
+  <tr><td>OpenAI-o1_tikz</td><td><b>4.43</b></td><td>3.68</td><td>3.83</td><td><b>4.05</b></td><td><b>4.45</b></td><td>3.80</td><td>4.10</td><td><b>4.18</b></td><td><b>4.40</b></td><td>3.88</td><td>4.03</td><td><b>4.05</b></td></tr>
+  <tr><td>Llama_python</td><td>2.53</td><td>1.35</td><td>1.75</td><td>1.78</td><td>2.70</td><td>1.53</td><td>2.00</td><td>1.90</td><td>3.20</td><td>2.50</td><td>3.10</td><td>3.30</td></tr>
+  <tr><td>GPT-4o_python</td><td>3.38</td><td><b>4.15</b></td><td><b>4.13</b></td><td>3.48</td><td>3.35</td><td>4.18</td><td>4.23</td><td>3.35</td><td>3.88</td><td><b>4.50</b></td><td><b>4.83</b></td><td>3.85</td></tr>
+  <tr><td>OpenAI-o1_python</td><td>4.28</td><td>3.45</td><td>4.10</td><td>3.60</td><td>4.10</td><td>3.45</td><td>3.93</td><td>3.60</td><td><b>4.50</b></td><td>4.08</td><td>4.30</td><td><b>4.05</b></td></tr>
+  <tr><td>Qwen2.5_python</td><td>3.10</td><td>2.30</td><td>2.05</td><td>2.40</td><td>3.08</td><td>2.48</td><td>2.25</td><td>2.53</td><td>3.70</td><td>3.43</td><td>3.28</td><td>3.68</td></tr>
+  <tr><td>DALL-E</td><td>1.98</td><td>2.15</td><td>1.83</td><td>1.93</td><td>1.88</td><td>2.03</td><td>2.03</td><td>2.00</td><td>1.40</td><td>1.58</td><td>1.53</td><td>1.50</td></tr>
+  <tr><td><b>Average</b></td><td><b>3.18</b></td><td>2.82</td><td>2.89</td><td>2.77</td><td><b>3.22</b></td><td>2.93</td><td>3.15</td><td>2.90</td><td><b>3.49</b></td><td>3.33</td><td>3.53</td><td>3.41</td></tr>
 </table>
 
 
 
-| Model             | Correctness ||| | Relevance |||| Scientific Style ||||
-|--------------------|---------------------|-----|-----|-----|----------------|-----|-----|-----|------------------------|-----|-----|-----|
-| Language           | EN | DE  | ZH  | FA  |EN | DE  | ZH  | FA  | EN | DE  | ZH  | FA  |
-|--------------------|---------------------|-----|-----|-----|----------------|-----|-----|-----|------------------------|-----|-----|-----|
-| Llama_tikz         | 1.88                | 1.48| 1.50| 1.23| 2.18           | 1.78| 2.10| 1.68| 2.78                   | 2.23| 2.80| 2.90|
-| GPT-4o_tikz        | 3.85                | 4.03| 3.98| 3.68| 4.03           | 4.23| 4.60| 3.98| 4.10                   | 4.43| 4.40| 3.98|
-| OpenAI-o1_tikz     | **4.43**            | 3.68| 3.83| **4.05**| **4.45**      | 3.80| 4.10| **4.18**| **4.40**               | 3.88| 4.03| **4.05**|
-| Llama_python       | 2.53                | 1.35| 1.75| 1.78| 2.70           | 1.53| 2.00| 1.90| 3.20                   | 2.50| 3.10| 3.30|
-| GPT-4o_python      | 3.38                | **4.15**| **4.13**| 3.48| 3.35   | 4.18| 4.23| 3.35| 3.88                   | **4.50**| **4.83**| 3.85|
-| OpenAI-o1_python   | 4.28                | 3.45| 4.10| 3.60| 4.10           | 3.45| 3.93| 3.60| **4.50**               | 4.08| 4.30| **4.05**|
-| Qwen2.5_python     | 3.10                | 2.30| 2.05| 2.40| 3.08           | 2.48| 2.25| 2.53| 3.70                   | 3.43| 3.28| 3.68|
-| DALL-E             | 1.98                | 2.15| 1.83| 1.93| 1.88           | 2.03| 2.03| 2.00| 1.40                   | 1.58| 1.53| 1.50|
-| **Average**        | **3.18**            | 3.18| 2.82| 2.89| **3.22**       | 2.93| 3.15| 2.90| **3.49**               | 3.33| 3.53| 3.41|
 
 
 ## Citation 
