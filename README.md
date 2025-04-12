@@ -1,4 +1,6 @@
 # ScImage: How good are multimodal large language models at scientific text-to-image generation?
+Leixin Zhang, Steffen Eger, Yinjie Cheng, Weihe Zhai, Jonas Belouadi, Fahimeh Moafian, Zhixue Zhao
+🔥 News **ScImage Accepted at ICLR 2025**
 
 ## 🚀 Introduction: 
 ScImage——a **benchmark** designed to evaluate the multimodal capabilities of LLMs in **scientific image generation** from textual descriptions. 
@@ -7,7 +9,7 @@ ScImage——a **benchmark** designed to evaluate the multimodal capabilities of
 - Two modes of output generation: **code-based outputs (Python, TikZ)** and direct **raster image generation**.
 - Multilingual: we examine **four different input languages**: English, German, Farsi, and Chinese.
 
-  ## [Check out my project](https://github.com/your-username/your-repo)
+[Check out my project](https://github.com/your-username/your-repo)
 code generation from English prompts:https://drive.google.com/drive/folders/17QPqBBCGMW1gL4t63T_3h-G02NrgsyQS?usp=sharing
 
 image generation: https://drive.google.com/drive/folders/1Ruj0XihQylbpORBDLWrRAC8OIb0zLORY?usp=sharing
