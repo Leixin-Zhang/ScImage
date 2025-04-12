@@ -27,8 +27,8 @@ ScImage——a **benchmark** designed to evaluate the multimodal capabilities of
 
 ## 📝 Template & Generation Query:
 - [Template](template.csv): 101 templates with replacable elements within `{dictionary}`.
-- [English Prompts](prompt.csv): 404 English prompts for model evaluation.
-- [Multilingual Prompts](multilingual_prompt.csv): 20 prompts (covering all understanding dimensions) are translated to other three languages: German, Farsi, and Chinese.
+- [English queries](prompt.csv): 404 English queries for model evaluation.
+- [Multilingual queries](multilingual_prompt.csv): 20 queries (covering all understanding dimensions) are translated to other three languages: German, Farsi, and Chinese.
 
     
 **Generation Mode:**
