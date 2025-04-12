@@ -87,13 +87,12 @@ The statistics for LLMs performance:
   </tr>
   <tr><td>Llama_tikz</td><td>1.88</td><td>1.48</td><td>1.50</td><td>1.23</td><td>2.18</td><td>1.78</td><td>2.10</td><td>1.68</td><td>2.78</td><td>2.23</td><td>2.80</td><td>2.90</td></tr>
   <tr><td>GPT-4o_tikz</td><td>3.85</td><td>4.03</td><td>3.98</td><td>3.68</td><td>4.03</td><td><b>4.23</b></td><td><b>4.60</b></td><td>3.98</td><td>4.10</td><td><b>4.43</b></td><td>4.40</td><td>3.98</td></tr>
-  <tr><td>OpenAI-o1_tikz</td><td><b>4.43</b></td><td>3.68</td><td>3.83</td><td><b>4.05</b></td><td><b>4.45</b></td><td>3.80</td><td>4.10</td><td><b>4.18</b></td><td><b>4.40</b></td><td>3.88</td><td>4.03</td><td><b>4.05</b></td></tr>
+  <tr><td>OpenAI-o1_tikz</td><td><b>4.43</b></td><td>3.68</td><td>3.83</td><td><b>4.05</b></td><td><b>4.45</b></td><td>3.80</td><td>4.10</td><td><b>4.18</b></td><td>4.40</td><td>3.88</td><td>4.03</td><td><b>4.05</b></td></tr>
   <tr><td>Llama_python</td><td>2.53</td><td>1.35</td><td>1.75</td><td>1.78</td><td>2.70</td><td>1.53</td><td>2.00</td><td>1.90</td><td>3.20</td><td>2.50</td><td>3.10</td><td>3.30</td></tr>
   <tr><td>GPT-4o_python</td><td>3.38</td><td><b>4.15</b></td><td><b>4.13</b></td><td>3.48</td><td>3.35</td><td>4.18</td><td>4.23</td><td>3.35</td><td>3.88</td><td><b>4.50</b></td><td><b>4.83</b></td><td>3.85</td></tr>
   <tr><td>OpenAI-o1_python</td><td>4.28</td><td>3.45</td><td>4.10</td><td>3.60</td><td>4.10</td><td>3.45</td><td>3.93</td><td>3.60</td><td><b>4.50</b></td><td>4.08</td><td>4.30</td><td><b>4.05</b></td></tr>
   <tr><td>Qwen2.5_python</td><td>3.10</td><td>2.30</td><td>2.05</td><td>2.40</td><td>3.08</td><td>2.48</td><td>2.25</td><td>2.53</td><td>3.70</td><td>3.43</td><td>3.28</td><td>3.68</td></tr>
   <tr><td>DALL-E</td><td>1.98</td><td>2.15</td><td>1.83</td><td>1.93</td><td>1.88</td><td>2.03</td><td>2.03</td><td>2.00</td><td>1.40</td><td>1.58</td><td>1.53</td><td>1.50</td></tr>
-  <tr><td><b>Average</b></td><td><b>3.18</b></td><td>2.82</td><td>2.89</td><td>2.77</td><td><b>3.22</b></td><td>2.93</td><td>3.15</td><td>2.90</td><td><b>3.49</b></td><td>3.33</td><td>3.53</td><td>3.41</td></tr>
 </table>
 
 
