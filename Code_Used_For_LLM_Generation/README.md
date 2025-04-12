@@ -1,7 +1,7 @@
 # ScImage Benchmark: text to scientific image generation
 
 ### OpenAI models
-- The OpenAI models (GPT4O, GPT-O1-preview and DALLE) are generated with API. Users should have activated OpenAI API key to be able to run the code. 
+- The OpenAI models (GPT4o, GPT-o1-preview and DALLE) are generated with API. Users should have activated OpenAI API key to be able to run the code in [file](openAI_generation_code). 
 
 ###  Stable Diffusion
 - The model is deployed on Google Colab ([Link](https://colab.research.google.com/)). Create a Jupyter notebook and paste the code to run the image-generating procedure. 
