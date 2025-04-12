@@ -10,15 +10,13 @@
     <a href="https://scholar.google.com/citations?user=bwiMxxsAAAAJ&hl=en" target="_blank">Zhixue Zhao</a>
 </div>
 
-<div align="left">
-<a href="https://huggingface.co/datasets/casszhao/ScImage" target="_blank">
-    <img alt="ScImage: Prompt" src="https://img.shields.io/badge/%F0%9F%A4%97%20_Benchmark-SVG--Bench-ffc107?color=ffc107&logoColor=white" height="25" />
-</div>
 
-</a>
 
   
 #### 🔥 News **ScImage Accepted at ICLR 2025**
+<a href="https://huggingface.co/datasets/casszhao/ScImage" target="_blank">
+    <img alt="ScImage: Prompt" src="https://img.shields.io/badge/%F0%9F%A4%97%20_Benchmark-SVG--Bench-ffc107?color=ffc107&logoColor=white" height="25" />
+</a>
 
 ## 🚀 Introduction: 
 ScImage——a **benchmark** designed to evaluate the multimodal capabilities of LLMs in **scientific image generation** from textual descriptions. 
