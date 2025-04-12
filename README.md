@@ -1,15 +1,6 @@
 # ScImage Benchmark: text to scientific image generation
 
-## 📖 Table of Contents
-- [💿 Installation](#installation)
-- [🏎️ Quick Start - Image2SVG Generation](#quick-start---image2svg-generation)
-- [🎨 Models](#models)
-- [📊 Datasets](#datasets---svg-bench)
-- [🏋️‍♂️ Training](#training)
-- [🏆 Evaluation on SVG-Bench](#validation-on-svg-benchmarks-svg-bench)
-- [🧩 Demo](#starvector-demo)
-- [📚 Citation](#citation)
-- [📝 License](#license)
+
   
 code generation from English prompts:https://drive.google.com/drive/folders/17QPqBBCGMW1gL4t63T_3h-G02NrgsyQS?usp=sharing
 
