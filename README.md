@@ -51,7 +51,7 @@ Image Output:
 
 ### 🏆 Human evaluation results: 
 
-There are **2828** human evaluation for [English](Human_Evaluation_Scores/English_evaluation_score.csv) and **541** human evaluation for [multilingual](Human_Evaluation_Scores/multilingual_evaluation_score.csv) generation, in total **3369** human evaluated items. The overall statistics for LLMs performance:
+There are **2828** human evaluation for [English (csv file)](Human_Evaluation_Scores/English_evaluation_score.csv) and **541** human evaluation for [multilingual (csv file)](Human_Evaluation_Scores/multilingual_evaluation_score.csv) generation, in total **3369** human evaluated items. The overall statistics for LLMs performance:
 
 **LLM generation performance (English)**
 
@@ -64,6 +64,8 @@ There are **2828** human evaluation for [English](Human_Evaluation_Scores/Englis
 | GPT-4o_python     | **3.51**    | 3.40      | **3.93**         |
 | Stable Diffusion  | 2.19        | 2.09      | 1.96             |
 | DALL·E            | 2.16        | 2.00      | 1.55             |
+
+All images along with their evaluation scores is available with an [excel file](https://docs.google.com/spreadsheets/d/1e-5_BbLZQ6h4RrJXwYYoh-70_XJuiaK8/edit?usp=sharing&ouid=102282799414163318354&rtpof=true&sd=true): 
 
  **LLM generation performance (Multilingual)**
 
