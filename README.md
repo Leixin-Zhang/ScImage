@@ -10,7 +10,7 @@
     <a href="https://scholar.google.com/citations?user=bwiMxxsAAAAJ&hl=en" target="_blank">Zhixue Zhao</a>
 </div>
 
-<div align="center">
+<div align="left">
 <a href="https://huggingface.co/datasets/casszhao/ScImage" target="_blank">
     <img alt="ScImage: Prompt" src="https://img.shields.io/badge/%F0%9F%A4%97%20_Benchmark-SVG--Bench-ffc107?color=ffc107&logoColor=white" height="25" />
 </div>
