@@ -95,7 +95,7 @@ All images along with their evaluation scores are available in the [google sheet
   <tr><td>DALL-E</td><td>1.98</td><td>2.15</td><td>1.83</td><td>1.93</td><td>1.88</td><td>2.03</td><td>2.03</td><td>2.00</td><td>1.40</td><td>1.58</td><td>1.53</td><td>1.50</td></tr>
 </table>
 
-
+### 176 generated images score 5 (full mark) at all three evaluation dimensions and can be used as [reference images](correct_image_reference.xlsx) in future research.
 
 
 
