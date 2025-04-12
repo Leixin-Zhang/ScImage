@@ -14,18 +14,18 @@
 </div>
 
 
-#### 🔥 News: **ScImage Accepted at ICLR 2025** <a href="https://huggingface.co/datasets/casszhao/ScImage" target="_blank"> <img alt="Benchmark: ScImage" src="https://img.shields.io/badge/%F0%9F%A4%97%20_Benchmark-ScImage-ffc107?color=ffc107&logoColor=white" height="15"/> </a>
+#### 🔥 News: **ScImage Accepted at ICLR 2025** <a href="https://huggingface.co/datasets/casszhao/ScImage" target="_blank"> <img alt="Benchmark: ScImage" src="https://img.shields.io/badge/%F0%9F%A4%97%20_Benchmark-ScImage-ffc107?color=ffc107&logoColor=white" height="20"/> </a>
 
 
     
-### 🚀 Introduction: 
+## 🚀 Introduction: 
 ScImage——a **benchmark** designed to evaluate the multimodal capabilities of LLMs in **scientific image generation** from textual descriptions. 
 - ScImage assesses **three dimensions of understanding**: spatial, numeric, and attribute comprehension, as well as their combinations.
 - We evaluate **seven models**: GPT-4o, Llama, AutomaTikZ, Dall-E, StableDiffusion, GPT-o1 and Qwen2.5-Coder-Instruct
 - Two modes of output generation: **code-based outputs (Python, TikZ)** and direct **raster image generation**.
 - Multilingual: we examine **four different input languages**: English, German, Farsi, and Chinese.
 
-### 📝 Prompt & Template:
+## 📝 Prompt & Template:
 - [Template](template.csv): 101 templates with replacable features within `{feature}`.
 - [English Prompts](prompt.csv): 404 English prompts for model evaluation.
 - [Multilingual Prompts](multilingual_prompt.csv): 20 prompts (covering all understanding dimensions) are translated to other three languages: German, Farsi, and Chinese.
@@ -38,7 +38,7 @@ ScImage——a **benchmark** designed to evaluate the multimodal capabilities of
     - tikz: Please generate a scientific figure according to the following requirements: `{generation query}`. Your output should be in Tikz code. Do not include any text other than the Tikz code.
 - Text-Image: Please generate a scientific figure according to the following requirements: `{generation query}`.
   
-### Generation Output
+## 🧩 Generation Output
 
 Code Output: 
 - [Code output (English)](https://drive.google.com/drive/folders/17QPqBBCGMW1gL4t63T_3h-G02NrgsyQS?usp=sharing)
@@ -49,11 +49,11 @@ Image Output:
 - [Image output (multilingual)](https://drive.google.com/drive/folders/1Ke2oL2nmXwpSSwZfh_yifyAof_XYlIGo?usp=sharing)
 
 
-### Human evaluation results: 
+### 🏆 Human evaluation results: 
 
 There are **2828** human evaluation for [English](Human_Evaluation_Scores/English_evaluation_score.csv) and **541** human evaluation for [multilingual](Human_Evaluation_Scores/multilingual_evaluation_score.csv) generation, in total **3369** human evaluated items. The overall statistics for LLMs performance:
 
-- **LLM generation performance (English)**
+**LLM generation performance (English)**
 
 | Model             | Correctness | Relevance | Scientific Style |
 |------------------|-------------|-----------|------------------|
@@ -65,7 +65,7 @@ There are **2828** human evaluation for [English](Human_Evaluation_Scores/Englis
 | Stable Diffusion  | 2.19        | 2.09      | 1.96             |
 | DALL·E            | 2.16        | 2.00      | 1.55             |
 
-- **LLM generation performance (Multilingual)**
+ **LLM generation performance (Multilingual)**
 
 
 
