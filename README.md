@@ -65,7 +65,8 @@ Image Output:
 
 - LLM generation performance (Multilingual)
 
-| Language           | \| Correctness (EN) | DE  | ZH  | FA  | Relevance (EN) | DE  | ZH  | FA  | Scientific Style (EN) | DE  | ZH  | FA  |
+| Language           | | Correctness  |   |   |   | Relevance |  |  |  | Scientific Style | DE  | ZH  | FA  |
+| Language           | EN | DE  | ZH  | FA  |EN | DE  | ZH  | FA  | EN | DE  | ZH  | FA  |
 |--------------------|---------------------|-----|-----|-----|----------------|-----|-----|-----|------------------------|-----|-----|-----|
 | Llama_tikz         | 1.88                | 1.48| 1.50| 1.23| 2.18           | 1.78| 2.10| 1.68| 2.78                   | 2.23| 2.80| 2.90|
 | GPT-4o_tikz        | 3.85                | 4.03| 3.98| 3.68| 4.03           | 4.23| 4.60| 3.98| 4.10                   | 4.43| 4.40| 3.98|
