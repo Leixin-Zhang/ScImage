@@ -40,18 +40,17 @@ ScImage——a **benchmark** designed to evaluate the multimodal capabilities of
   
 ### Generation Output
 
-Generated Code Output: 
-[Generated code from English prompts](https://drive.google.com/drive/folders/17QPqBBCGMW1gL4t63T_3h-G02NrgsyQS?usp=sharing)
+Code Output: 
+- [Code generation from English prompts](https://drive.google.com/drive/folders/17QPqBBCGMW1gL4t63T_3h-G02NrgsyQS?usp=sharing)
+- [code generation from multilingual prompts](https://drive.google.com/drive/folders/1vYaRGRd6XvcT2pjZYQ2w76-b57arPGVZ?usp=sharing)
 
-image generation: https://drive.google.com/drive/folders/1Ruj0XihQylbpORBDLWrRAC8OIb0zLORY?usp=sharing
+Image Output: 
+- [Image generation from English prompts](https://drive.google.com/drive/folders/1Ruj0XihQylbpORBDLWrRAC8OIb0zLORY?usp=sharing)
+- [Image generation from multilingual prompts](https://drive.google.com/drive/folders/1Ke2oL2nmXwpSSwZfh_yifyAof_XYlIGo?usp=sharing)
 
-human evaluation scores: 
 
-Multilingual: 
+### Human evaluation scores: 
 
-code generation: https://drive.google.com/drive/folders/1vYaRGRd6XvcT2pjZYQ2w76-b57arPGVZ?usp=sharing
-
-image generation:https://drive.google.com/drive/folders/1Ke2oL2nmXwpSSwZfh_yifyAof_XYlIGo?usp=sharing
 
 
 ## Citation 
