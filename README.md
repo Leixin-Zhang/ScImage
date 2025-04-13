@@ -101,11 +101,12 @@ All images along with their evaluation scores are available in the [google sheet
 
 ## Citation 
 ```
-@article{zhang2024scimage,
+@inproceedings{zhang2025scimage,
   title={ScImage: How Good Are Multimodal Large Language Models at Scientific Text-to-Image Generation?},
-  author={Zhang, Leixin and Eger, Steffen and Cheng, Yinjie and Zhai, Weihe and Belouadi, Jonas and Leiter, Christoph and Ponzetto, Simone Paolo and Moafian, Fahimeh and Zhao, Zhixue},
-  journal={arXiv preprint arXiv:2412.02368},
-  year={2024}
+  author={Zhang, Leixin and Eger, Steffen and Cheng, Yinjie and Zhai, Weihe and Belouadi, Jonas and Leiter, Fahimeh and Zhao, Zhixue},
+  booktitle={The Thirteenth International Conference on Learning Representations},
+  year={2025}
+  url={https://openreview.net/forum?id=ugyqNEOjoU}
 }
 ```
 
