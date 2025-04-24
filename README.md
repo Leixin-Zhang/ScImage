@@ -28,7 +28,7 @@ ScImage——a **benchmark** designed to evaluate the multimodal capabilities of
 ## 📝 Template & Generation Query:
 - [Template](template.csv): 101 templates with replacable elements within `{dictionary}`.
 - [English queries](prompt.csv): 404 English queries for model evaluation.
-- [Multilingual queries](multilingual_prompt.csv): 20 queries (covering all understanding dimensions) are translated to other three languages: German, Farsi, and Chinese.
+- [Multilingual queries](multilingual_prompt.csv): 20 queries (covering all understanding dimensions) are translated to three other languages: German, Farsi, and Chinese.
 
     
 **Generation Mode:**
@@ -49,7 +49,7 @@ ScImage——a **benchmark** designed to evaluate the multimodal capabilities of
 - [Image output (multilingual)](https://drive.google.com/drive/folders/1Ke2oL2nmXwpSSwZfh_yifyAof_XYlIGo?usp=sharing)
 
 
-## 🏆 Human evaluation results: 
+## 🏆 Human Evaluation Results: 
 
 There are **2828** human evaluation for [English (csv file)](Human_Evaluation_Scores/English_evaluation_score.csv) and **541** human evaluation for [multilingual (csv file)](Human_Evaluation_Scores/multilingual_evaluation_score.csv) generation, in total **3369** human evaluated items. The overall statistics for LLMs performance:
 
